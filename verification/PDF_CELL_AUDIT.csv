@@ -1,0 +1,1576 @@
+table,county,column,pdf_value,recomputed_from_raw,source_file,match
+Table 1,Oklahoma,Dem Reg Share 2026 %,33.9%,33.9%,vr_2026-11-01_county.pdf,MATCH
+Table 1,Oklahoma,Dem Reg 2022 (Nov 1),"160,291","160,291",vr_2022-11-01_county.pdf,MATCH
+Table 1,Oklahoma,Dem Reg 2026 (Nov 1),"160,569","160,569",vr_2026-11-01_county.pdf,MATCH
+Table 1,Oklahoma,Reg Change #,+278,+278,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Oklahoma,Reg Change %,+0.2%,+0.2%,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Oklahoma,Dem Gov Votes 2022,"122,996","122,996",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Oklahoma,Dem Gov Votes 2026*,"141,480","141,480",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Oklahoma,Vote Change #,"+18,484","+18,484",20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Oklahoma,Vote Change % (on 2022 base),+15.0%,+15.0%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Oklahoma,Total Gov Votes 2022,"222,554","222,554",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Oklahoma,Total Gov Votes 2026*,"229,421","229,421",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Oklahoma,Gov Votes Change #,"+6,867","+6,867",20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Oklahoma,Gov Votes Change %,+3.1%,+3.1%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Oklahoma,Dem Share of Gov Votes 2022 %,55.3%,55.3%,20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 2,Oklahoma,Dem Share of Gov Votes 2026* %,61.7%,61.7%,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Oklahoma,Change (pts),+6.40,+6.40,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Oklahoma,Dem Share of Registration 2022 %,35.9%,35.9%,vr_2022-11-01_county.pdf,MATCH
+Table 2,Oklahoma,Total Registered 2022 (Nov 1),"447,014","447,014",vr_2022-11-01_county.pdf,MATCH
+Table 2,Oklahoma,Dem Share of Registration 2026 %,33.9%,33.9%,vr_2026-11-01_county.pdf,MATCH
+Table 2,Oklahoma,Total Registered 2026 (Nov 1),"472,993","472,993",vr_2026-11-01_county.pdf,MATCH
+Table 1,Cherokee,Dem Reg Share 2026 %,31.6%,31.6%,vr_2026-11-01_county.pdf,MATCH
+Table 1,Cherokee,Dem Reg 2022 (Nov 1),"11,101","11,101",vr_2022-11-01_county.pdf,MATCH
+Table 1,Cherokee,Dem Reg 2026 (Nov 1),"9,152","9,152",vr_2026-11-01_county.pdf,MATCH
+Table 1,Cherokee,Reg Change #,"-1,949","-1,949",vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Cherokee,Reg Change %,-17.6%,-17.6%,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Cherokee,Dem Gov Votes 2022,"6,481","6,481",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Cherokee,Dem Gov Votes 2026*,"6,014","6,014",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Cherokee,Vote Change #,-467,-467,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Cherokee,Vote Change % (on 2022 base),-7.2%,-7.2%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Cherokee,Total Gov Votes 2022,"13,545","13,545",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Cherokee,Total Gov Votes 2026*,"12,548","12,548",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Cherokee,Gov Votes Change #,-997,-997,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Cherokee,Gov Votes Change %,-7.4%,-7.4%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Cherokee,Dem Share of Gov Votes 2022 %,47.8%,47.8%,20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 2,Cherokee,Dem Share of Gov Votes 2026* %,47.9%,47.9%,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Cherokee,Change (pts),+0.08,+0.08,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Cherokee,Dem Share of Registration 2022 %,41.5%,41.5%,vr_2022-11-01_county.pdf,MATCH
+Table 2,Cherokee,Total Registered 2022 (Nov 1),"26,744","26,744",vr_2022-11-01_county.pdf,MATCH
+Table 2,Cherokee,Dem Share of Registration 2026 %,31.6%,31.6%,vr_2026-11-01_county.pdf,MATCH
+Table 2,Cherokee,Total Registered 2026 (Nov 1),"28,957","28,957",vr_2026-11-01_county.pdf,MATCH
+Table 1,Muskogee,Dem Reg Share 2026 %,31.0%,31.0%,vr_2026-11-01_county.pdf,MATCH
+Table 1,Muskogee,Dem Reg 2022 (Nov 1),"14,720","14,720",vr_2022-11-01_county.pdf,MATCH
+Table 1,Muskogee,Dem Reg 2026 (Nov 1),"12,082","12,082",vr_2026-11-01_county.pdf,MATCH
+Table 1,Muskogee,Reg Change #,"-2,638","-2,638",vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Muskogee,Reg Change %,-17.9%,-17.9%,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Muskogee,Dem Gov Votes 2022,"7,517","7,517",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Muskogee,Dem Gov Votes 2026*,"7,282","7,282",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Muskogee,Vote Change #,-235,-235,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Muskogee,Vote Change % (on 2022 base),-3.1%,-3.1%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Muskogee,Total Gov Votes 2022,"17,796","17,796",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Muskogee,Total Gov Votes 2026*,"16,304","16,304",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Muskogee,Gov Votes Change #,"-1,492","-1,492",20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Muskogee,Gov Votes Change %,-8.4%,-8.4%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Muskogee,Dem Share of Gov Votes 2022 %,42.2%,42.2%,20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 2,Muskogee,Dem Share of Gov Votes 2026* %,44.7%,44.7%,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Muskogee,Change (pts),+2.42,+2.42,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Muskogee,Dem Share of Registration 2022 %,38.9%,38.9%,vr_2022-11-01_county.pdf,MATCH
+Table 2,Muskogee,Total Registered 2022 (Nov 1),"37,842","37,842",vr_2022-11-01_county.pdf,MATCH
+Table 2,Muskogee,Dem Share of Registration 2026 %,31.0%,31.0%,vr_2026-11-01_county.pdf,MATCH
+Table 2,Muskogee,Total Registered 2026 (Nov 1),"39,025","39,025",vr_2026-11-01_county.pdf,MATCH
+Table 1,Caddo,Dem Reg Share 2026 %,29.8%,29.8%,vr_2026-11-01_county.pdf,MATCH
+Table 1,Caddo,Dem Reg 2022 (Nov 1),"5,280","5,280",vr_2022-11-01_county.pdf,MATCH
+Table 1,Caddo,Dem Reg 2026 (Nov 1),"4,310","4,310",vr_2026-11-01_county.pdf,MATCH
+Table 1,Caddo,Reg Change #,-970,-970,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Caddo,Reg Change %,-18.4%,-18.4%,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Caddo,Dem Gov Votes 2022,"2,668","2,668",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Caddo,Dem Gov Votes 2026*,"2,712","2,712",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Caddo,Vote Change #,+44,+44,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Caddo,Vote Change % (on 2022 base),+1.6%,+1.6%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Caddo,Total Gov Votes 2022,"7,062","7,062",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Caddo,Total Gov Votes 2026*,"6,449","6,449",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Caddo,Gov Votes Change #,-613,-613,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Caddo,Gov Votes Change %,-8.7%,-8.7%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Caddo,Dem Share of Gov Votes 2022 %,37.8%,37.8%,20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 2,Caddo,Dem Share of Gov Votes 2026* %,42.1%,42.1%,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Caddo,Change (pts),+4.27,+4.27,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Caddo,Dem Share of Registration 2022 %,37.3%,37.3%,vr_2022-11-01_county.pdf,MATCH
+Table 2,Caddo,Total Registered 2022 (Nov 1),"14,154","14,154",vr_2022-11-01_county.pdf,MATCH
+Table 2,Caddo,Dem Share of Registration 2026 %,29.8%,29.8%,vr_2026-11-01_county.pdf,MATCH
+Table 2,Caddo,Total Registered 2026 (Nov 1),"14,450","14,450",vr_2026-11-01_county.pdf,MATCH
+Table 1,McIntosh,Dem Reg Share 2026 %,29.5%,29.5%,vr_2026-11-01_county.pdf,MATCH
+Table 1,McIntosh,Dem Reg 2022 (Nov 1),"5,297","5,297",vr_2022-11-01_county.pdf,MATCH
+Table 1,McIntosh,Dem Reg 2026 (Nov 1),"3,838","3,838",vr_2026-11-01_county.pdf,MATCH
+Table 1,McIntosh,Reg Change #,"-1,459","-1,459",vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,McIntosh,Reg Change %,-27.5%,-27.5%,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,McIntosh,Dem Gov Votes 2022,"2,300","2,300",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,McIntosh,Dem Gov Votes 2026*,"1,895","1,895",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,McIntosh,Vote Change #,-405,-405,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,McIntosh,Vote Change % (on 2022 base),-17.6%,-17.6%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,McIntosh,Total Gov Votes 2022,"6,476","6,476",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,McIntosh,Total Gov Votes 2026*,"5,744","5,744",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,McIntosh,Gov Votes Change #,-732,-732,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,McIntosh,Gov Votes Change %,-11.3%,-11.3%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,McIntosh,Dem Share of Gov Votes 2022 %,35.5%,35.5%,20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 2,McIntosh,Dem Share of Gov Votes 2026* %,33.0%,33.0%,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,McIntosh,Change (pts),-2.52,-2.52,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,McIntosh,Dem Share of Registration 2022 %,42.8%,42.8%,vr_2022-11-01_county.pdf,MATCH
+Table 2,McIntosh,Total Registered 2022 (Nov 1),"12,366","12,366",vr_2022-11-01_county.pdf,MATCH
+Table 2,McIntosh,Dem Share of Registration 2026 %,29.5%,29.5%,vr_2026-11-01_county.pdf,MATCH
+Table 2,McIntosh,Total Registered 2026 (Nov 1),"12,999","12,999",vr_2026-11-01_county.pdf,MATCH
+Table 1,Latimer,Dem Reg Share 2026 %,29.1%,29.1%,vr_2026-11-01_county.pdf,MATCH
+Table 1,Latimer,Dem Reg 2022 (Nov 1),"2,637","2,637",vr_2022-11-01_county.pdf,MATCH
+Table 1,Latimer,Dem Reg 2026 (Nov 1),"1,805","1,805",vr_2026-11-01_county.pdf,MATCH
+Table 1,Latimer,Reg Change #,-832,-832,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Latimer,Reg Change %,-31.6%,-31.6%,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Latimer,Dem Gov Votes 2022,960,960,20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Latimer,Dem Gov Votes 2026*,716,716,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Latimer,Vote Change #,-244,-244,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Latimer,Vote Change % (on 2022 base),-25.4%,-25.4%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Latimer,Total Gov Votes 2022,"3,064","3,064",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Latimer,Total Gov Votes 2026*,"2,466","2,466",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Latimer,Gov Votes Change #,-598,-598,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Latimer,Gov Votes Change %,-19.5%,-19.5%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Latimer,Dem Share of Gov Votes 2022 %,31.3%,31.3%,20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 2,Latimer,Dem Share of Gov Votes 2026* %,29.0%,29.0%,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Latimer,Change (pts),-2.30,-2.30,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Latimer,Dem Share of Registration 2022 %,43.4%,43.4%,vr_2022-11-01_county.pdf,MATCH
+Table 2,Latimer,Total Registered 2022 (Nov 1),"6,079","6,079",vr_2022-11-01_county.pdf,MATCH
+Table 2,Latimer,Dem Share of Registration 2026 %,29.1%,29.1%,vr_2026-11-01_county.pdf,MATCH
+Table 2,Latimer,Total Registered 2026 (Nov 1),"6,212","6,212",vr_2026-11-01_county.pdf,MATCH
+Table 1,Comanche,Dem Reg Share 2026 %,29.0%,29.0%,vr_2026-11-01_county.pdf,MATCH
+Table 1,Comanche,Dem Reg 2022 (Nov 1),"20,510","20,510",vr_2022-11-01_county.pdf,MATCH
+Table 1,Comanche,Dem Reg 2026 (Nov 1),"18,450","18,450",vr_2026-11-01_county.pdf,MATCH
+Table 1,Comanche,Reg Change #,"-2,060","-2,060",vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Comanche,Reg Change %,-10.0%,-10.0%,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Comanche,Dem Gov Votes 2022,"10,293","10,293",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Comanche,Dem Gov Votes 2026*,"11,614","11,614",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Comanche,Vote Change #,"+1,321","+1,321",20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Comanche,Vote Change % (on 2022 base),+12.8%,+12.8%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Comanche,Total Gov Votes 2022,"23,580","23,580",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Comanche,Total Gov Votes 2026*,"24,050","24,050",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Comanche,Gov Votes Change #,+470,+470,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Comanche,Gov Votes Change %,+2.0%,+2.0%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Comanche,Dem Share of Gov Votes 2022 %,43.7%,43.7%,20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 2,Comanche,Dem Share of Gov Votes 2026* %,48.3%,48.3%,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Comanche,Change (pts),+4.64,+4.64,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Comanche,Dem Share of Registration 2022 %,34.2%,34.2%,vr_2022-11-01_county.pdf,MATCH
+Table 2,Comanche,Total Registered 2022 (Nov 1),"60,050","60,050",vr_2022-11-01_county.pdf,MATCH
+Table 2,Comanche,Dem Share of Registration 2026 %,29.0%,29.0%,vr_2026-11-01_county.pdf,MATCH
+Table 2,Comanche,Total Registered 2026 (Nov 1),"63,556","63,556",vr_2026-11-01_county.pdf,MATCH
+Table 1,Tulsa,Dem Reg Share 2026 %,29.0%,29.0%,vr_2026-11-01_county.pdf,MATCH
+Table 1,Tulsa,Dem Reg 2022 (Nov 1),"118,261","118,261",vr_2022-11-01_county.pdf,MATCH
+Table 1,Tulsa,Dem Reg 2026 (Nov 1),"117,217","117,217",vr_2026-11-01_county.pdf,MATCH
+Table 1,Tulsa,Reg Change #,"-1,044","-1,044",vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Tulsa,Reg Change %,-0.9%,-0.9%,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Tulsa,Dem Gov Votes 2022,"95,396","95,396",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Tulsa,Dem Gov Votes 2026*,"103,881","103,881",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Tulsa,Vote Change #,"+8,485","+8,485",20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Tulsa,Vote Change % (on 2022 base),+8.9%,+8.9%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Tulsa,Total Gov Votes 2022,"194,095","194,095",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Tulsa,Total Gov Votes 2026*,"192,063","192,063",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Tulsa,Gov Votes Change #,"-2,032","-2,032",20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Tulsa,Gov Votes Change %,-1.0%,-1.0%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Tulsa,Dem Share of Gov Votes 2022 %,49.1%,49.1%,20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 2,Tulsa,Dem Share of Gov Votes 2026* %,54.1%,54.1%,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Tulsa,Change (pts),+4.94,+4.94,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Tulsa,Dem Share of Registration 2022 %,31.2%,31.2%,vr_2022-11-01_county.pdf,MATCH
+Table 2,Tulsa,Total Registered 2022 (Nov 1),"379,321","379,321",vr_2022-11-01_county.pdf,MATCH
+Table 2,Tulsa,Dem Share of Registration 2026 %,29.0%,29.0%,vr_2026-11-01_county.pdf,MATCH
+Table 2,Tulsa,Total Registered 2026 (Nov 1),"404,678","404,678",vr_2026-11-01_county.pdf,MATCH
+Table 1,Cleveland,Dem Reg Share 2026 %,28.7%,28.7%,vr_2026-11-01_county.pdf,MATCH
+Table 1,Cleveland,Dem Reg 2022 (Nov 1),"53,722","53,722",vr_2022-11-01_county.pdf,MATCH
+Table 1,Cleveland,Dem Reg 2026 (Nov 1),"52,457","52,457",vr_2026-11-01_county.pdf,MATCH
+Table 1,Cleveland,Reg Change #,"-1,265","-1,265",vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Cleveland,Reg Change %,-2.4%,-2.4%,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Cleveland,Dem Gov Votes 2022,"47,356","47,356",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Cleveland,Dem Gov Votes 2026*,"49,852","49,852",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Cleveland,Vote Change #,"+2,496","+2,496",20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Cleveland,Vote Change % (on 2022 base),+5.3%,+5.3%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Cleveland,Total Gov Votes 2022,"91,279","91,279",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Cleveland,Total Gov Votes 2026*,"90,196","90,196",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Cleveland,Gov Votes Change #,"-1,083","-1,083",20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Cleveland,Gov Votes Change %,-1.2%,-1.2%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Cleveland,Dem Share of Gov Votes 2022 %,51.9%,51.9%,20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 2,Cleveland,Dem Share of Gov Votes 2026* %,55.3%,55.3%,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Cleveland,Change (pts),+3.39,+3.39,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Cleveland,Dem Share of Registration 2022 %,31.0%,31.0%,vr_2022-11-01_county.pdf,MATCH
+Table 2,Cleveland,Total Registered 2022 (Nov 1),"173,535","173,535",vr_2022-11-01_county.pdf,MATCH
+Table 2,Cleveland,Dem Share of Registration 2026 %,28.7%,28.7%,vr_2026-11-01_county.pdf,MATCH
+Table 2,Cleveland,Total Registered 2026 (Nov 1),"182,859","182,859",vr_2026-11-01_county.pdf,MATCH
+Table 1,Coal,Dem Reg Share 2026 %,28.3%,28.3%,vr_2026-11-01_county.pdf,MATCH
+Table 1,Coal,Dem Reg 2022 (Nov 1),"1,823","1,823",vr_2022-11-01_county.pdf,MATCH
+Table 1,Coal,Dem Reg 2026 (Nov 1),"1,097","1,097",vr_2026-11-01_county.pdf,MATCH
+Table 1,Coal,Reg Change #,-726,-726,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Coal,Reg Change %,-39.8%,-39.8%,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Coal,Dem Gov Votes 2022,549,549,20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Coal,Dem Gov Votes 2026*,334,334,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Coal,Vote Change #,-215,-215,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Coal,Vote Change % (on 2022 base),-39.2%,-39.2%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Coal,Total Gov Votes 2022,"1,908","1,908",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Coal,Total Gov Votes 2026*,"1,497","1,497",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Coal,Gov Votes Change #,-411,-411,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Coal,Gov Votes Change %,-21.5%,-21.5%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Coal,Dem Share of Gov Votes 2022 %,28.8%,28.8%,20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 2,Coal,Dem Share of Gov Votes 2026* %,22.3%,22.3%,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Coal,Change (pts),-6.46,-6.46,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Coal,Dem Share of Registration 2022 %,47.7%,47.7%,vr_2022-11-01_county.pdf,MATCH
+Table 2,Coal,Total Registered 2022 (Nov 1),"3,824","3,824",vr_2022-11-01_county.pdf,MATCH
+Table 2,Coal,Dem Share of Registration 2026 %,28.3%,28.3%,vr_2026-11-01_county.pdf,MATCH
+Table 2,Coal,Total Registered 2026 (Nov 1),"3,871","3,871",vr_2026-11-01_county.pdf,MATCH
+Table 1,Okmulgee,Dem Reg Share 2026 %,28.3%,28.3%,vr_2026-11-01_county.pdf,MATCH
+Table 1,Okmulgee,Dem Reg 2022 (Nov 1),"7,762","7,762",vr_2022-11-01_county.pdf,MATCH
+Table 1,Okmulgee,Dem Reg 2026 (Nov 1),"6,319","6,319",vr_2026-11-01_county.pdf,MATCH
+Table 1,Okmulgee,Reg Change #,"-1,443","-1,443",vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Okmulgee,Reg Change %,-18.6%,-18.6%,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Okmulgee,Dem Gov Votes 2022,"4,186","4,186",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Okmulgee,Dem Gov Votes 2026*,"3,906","3,906",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Okmulgee,Vote Change #,-280,-280,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Okmulgee,Vote Change % (on 2022 base),-6.7%,-6.7%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Okmulgee,Total Gov Votes 2022,"10,635","10,635",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Okmulgee,Total Gov Votes 2026*,"9,606","9,606",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Okmulgee,Gov Votes Change #,"-1,029","-1,029",20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Okmulgee,Gov Votes Change %,-9.7%,-9.7%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Okmulgee,Dem Share of Gov Votes 2022 %,39.4%,39.4%,20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 2,Okmulgee,Dem Share of Gov Votes 2026* %,40.7%,40.7%,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Okmulgee,Change (pts),+1.30,+1.30,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Okmulgee,Dem Share of Registration 2022 %,36.9%,36.9%,vr_2022-11-01_county.pdf,MATCH
+Table 2,Okmulgee,Total Registered 2022 (Nov 1),"21,047","21,047",vr_2022-11-01_county.pdf,MATCH
+Table 2,Okmulgee,Dem Share of Registration 2026 %,28.3%,28.3%,vr_2026-11-01_county.pdf,MATCH
+Table 2,Okmulgee,Total Registered 2026 (Nov 1),"22,345","22,345",vr_2026-11-01_county.pdf,MATCH
+Table 1,Okfuskee,Dem Reg Share 2026 %,27.5%,27.5%,vr_2026-11-01_county.pdf,MATCH
+Table 1,Okfuskee,Dem Reg 2022 (Nov 1),"2,267","2,267",vr_2022-11-01_county.pdf,MATCH
+Table 1,Okfuskee,Dem Reg 2026 (Nov 1),"1,713","1,713",vr_2026-11-01_county.pdf,MATCH
+Table 1,Okfuskee,Reg Change #,-554,-554,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Okfuskee,Reg Change %,-24.4%,-24.4%,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Okfuskee,Dem Gov Votes 2022,"1,067","1,067",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Okfuskee,Dem Gov Votes 2026*,910,910,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Okfuskee,Vote Change #,-157,-157,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Okfuskee,Vote Change % (on 2022 base),-14.7%,-14.7%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Okfuskee,Total Gov Votes 2022,"2,945","2,945",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Okfuskee,Total Gov Votes 2026*,"2,615","2,615",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Okfuskee,Gov Votes Change #,-330,-330,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Okfuskee,Gov Votes Change %,-11.2%,-11.2%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Okfuskee,Dem Share of Gov Votes 2022 %,36.2%,36.2%,20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 2,Okfuskee,Dem Share of Gov Votes 2026* %,34.8%,34.8%,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Okfuskee,Change (pts),-1.43,-1.43,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Okfuskee,Dem Share of Registration 2022 %,37.4%,37.4%,vr_2022-11-01_county.pdf,MATCH
+Table 2,Okfuskee,Total Registered 2022 (Nov 1),"6,061","6,061",vr_2022-11-01_county.pdf,MATCH
+Table 2,Okfuskee,Dem Share of Registration 2026 %,27.5%,27.5%,vr_2026-11-01_county.pdf,MATCH
+Table 2,Okfuskee,Total Registered 2026 (Nov 1),"6,219","6,219",vr_2026-11-01_county.pdf,MATCH
+Table 1,Choctaw,Dem Reg Share 2026 %,27.1%,27.1%,vr_2026-11-01_county.pdf,MATCH
+Table 1,Choctaw,Dem Reg 2022 (Nov 1),"3,390","3,390",vr_2022-11-01_county.pdf,MATCH
+Table 1,Choctaw,Dem Reg 2026 (Nov 1),"2,514","2,514",vr_2026-11-01_county.pdf,MATCH
+Table 1,Choctaw,Reg Change #,-876,-876,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Choctaw,Reg Change %,-25.8%,-25.8%,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Choctaw,Dem Gov Votes 2022,"1,084","1,084",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Choctaw,Dem Gov Votes 2026*,869,869,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Choctaw,Vote Change #,-215,-215,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Choctaw,Vote Change % (on 2022 base),-19.8%,-19.8%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Choctaw,Total Gov Votes 2022,"4,050","4,050",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Choctaw,Total Gov Votes 2026*,"3,534","3,534",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Choctaw,Gov Votes Change #,-516,-516,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Choctaw,Gov Votes Change %,-12.7%,-12.7%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Choctaw,Dem Share of Gov Votes 2022 %,26.8%,26.8%,20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 2,Choctaw,Dem Share of Gov Votes 2026* %,24.6%,24.6%,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Choctaw,Change (pts),-2.18,-2.18,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Choctaw,Dem Share of Registration 2022 %,38.1%,38.1%,vr_2022-11-01_county.pdf,MATCH
+Table 2,Choctaw,Total Registered 2022 (Nov 1),"8,891","8,891",vr_2022-11-01_county.pdf,MATCH
+Table 2,Choctaw,Dem Share of Registration 2026 %,27.1%,27.1%,vr_2026-11-01_county.pdf,MATCH
+Table 2,Choctaw,Total Registered 2026 (Nov 1),"9,260","9,260",vr_2026-11-01_county.pdf,MATCH
+Table 1,Pontotoc,Dem Reg Share 2026 %,26.8%,26.8%,vr_2026-11-01_county.pdf,MATCH
+Table 1,Pontotoc,Dem Reg 2022 (Nov 1),"7,670","7,670",vr_2022-11-01_county.pdf,MATCH
+Table 1,Pontotoc,Dem Reg 2026 (Nov 1),"6,394","6,394",vr_2026-11-01_county.pdf,MATCH
+Table 1,Pontotoc,Reg Change #,"-1,276","-1,276",vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Pontotoc,Reg Change %,-16.6%,-16.6%,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Pontotoc,Dem Gov Votes 2022,"5,068","5,068",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Pontotoc,Dem Gov Votes 2026*,"4,385","4,385",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Pontotoc,Vote Change #,-683,-683,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Pontotoc,Vote Change % (on 2022 base),-13.5%,-13.5%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Pontotoc,Total Gov Votes 2022,"11,205","11,205",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Pontotoc,Total Gov Votes 2026*,"10,575","10,575",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Pontotoc,Gov Votes Change #,-630,-630,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Pontotoc,Gov Votes Change %,-5.6%,-5.6%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Pontotoc,Dem Share of Gov Votes 2022 %,45.2%,45.2%,20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 2,Pontotoc,Dem Share of Gov Votes 2026* %,41.5%,41.5%,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Pontotoc,Change (pts),-3.76,-3.76,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Pontotoc,Dem Share of Registration 2022 %,34.1%,34.1%,vr_2022-11-01_county.pdf,MATCH
+Table 2,Pontotoc,Total Registered 2022 (Nov 1),"22,476","22,476",vr_2022-11-01_county.pdf,MATCH
+Table 2,Pontotoc,Dem Share of Registration 2026 %,26.8%,26.8%,vr_2026-11-01_county.pdf,MATCH
+Table 2,Pontotoc,Total Registered 2026 (Nov 1),"23,843","23,843",vr_2026-11-01_county.pdf,MATCH
+Table 1,Harmon,Dem Reg Share 2026 %,26.7%,26.7%,vr_2026-11-01_county.pdf,MATCH
+Table 1,Harmon,Dem Reg 2022 (Nov 1),582,582,vr_2022-11-01_county.pdf,MATCH
+Table 1,Harmon,Dem Reg 2026 (Nov 1),375,375,vr_2026-11-01_county.pdf,MATCH
+Table 1,Harmon,Reg Change #,-207,-207,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Harmon,Reg Change %,-35.6%,-35.6%,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Harmon,Dem Gov Votes 2022,179,179,20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Harmon,Dem Gov Votes 2026*,174,174,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Harmon,Vote Change #,-5,-5,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Harmon,Vote Change % (on 2022 base),-2.8%,-2.8%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Harmon,Total Gov Votes 2022,650,650,20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Harmon,Total Gov Votes 2026*,552,552,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Harmon,Gov Votes Change #,-98,-98,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Harmon,Gov Votes Change %,-15.1%,-15.1%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Harmon,Dem Share of Gov Votes 2022 %,27.5%,27.5%,20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 2,Harmon,Dem Share of Gov Votes 2026* %,31.5%,31.5%,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Harmon,Change (pts),+3.98,+3.98,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Harmon,Dem Share of Registration 2022 %,41.6%,41.6%,vr_2022-11-01_county.pdf,MATCH
+Table 2,Harmon,Total Registered 2022 (Nov 1),"1,398","1,398",vr_2022-11-01_county.pdf,MATCH
+Table 2,Harmon,Dem Share of Registration 2026 %,26.7%,26.7%,vr_2026-11-01_county.pdf,MATCH
+Table 2,Harmon,Total Registered 2026 (Nov 1),"1,405","1,405",vr_2026-11-01_county.pdf,MATCH
+Table 1,Hughes,Dem Reg Share 2026 %,26.2%,26.2%,vr_2026-11-01_county.pdf,MATCH
+Table 1,Hughes,Dem Reg 2022 (Nov 1),"2,658","2,658",vr_2022-11-01_county.pdf,MATCH
+Table 1,Hughes,Dem Reg 2026 (Nov 1),"1,891","1,891",vr_2026-11-01_county.pdf,MATCH
+Table 1,Hughes,Reg Change #,-767,-767,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Hughes,Reg Change %,-28.9%,-28.9%,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Hughes,Dem Gov Votes 2022,"1,093","1,093",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Hughes,Dem Gov Votes 2026*,887,887,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Hughes,Vote Change #,-206,-206,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Hughes,Vote Change % (on 2022 base),-18.8%,-18.8%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Hughes,Total Gov Votes 2022,"3,545","3,545",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Hughes,Total Gov Votes 2026*,"2,905","2,905",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Hughes,Gov Votes Change #,-640,-640,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Hughes,Gov Votes Change %,-18.1%,-18.1%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Hughes,Dem Share of Gov Votes 2022 %,30.8%,30.8%,20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 2,Hughes,Dem Share of Gov Votes 2026* %,30.5%,30.5%,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Hughes,Change (pts),-0.30,-0.30,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Hughes,Dem Share of Registration 2022 %,37.3%,37.3%,vr_2022-11-01_county.pdf,MATCH
+Table 2,Hughes,Total Registered 2022 (Nov 1),"7,131","7,131",vr_2022-11-01_county.pdf,MATCH
+Table 2,Hughes,Dem Share of Registration 2026 %,26.2%,26.2%,vr_2026-11-01_county.pdf,MATCH
+Table 2,Hughes,Total Registered 2026 (Nov 1),"7,205","7,205",vr_2026-11-01_county.pdf,MATCH
+Table 1,Tillman,Dem Reg Share 2026 %,26.0%,26.0%,vr_2026-11-01_county.pdf,MATCH
+Table 1,Tillman,Dem Reg 2022 (Nov 1),"1,355","1,355",vr_2022-11-01_county.pdf,MATCH
+Table 1,Tillman,Dem Reg 2026 (Nov 1),"1,049","1,049",vr_2026-11-01_county.pdf,MATCH
+Table 1,Tillman,Reg Change #,-306,-306,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Tillman,Reg Change %,-22.6%,-22.6%,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Tillman,Dem Gov Votes 2022,565,565,20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Tillman,Dem Gov Votes 2026*,507,507,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Tillman,Vote Change #,-58,-58,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Tillman,Vote Change % (on 2022 base),-10.3%,-10.3%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Tillman,Total Gov Votes 2022,"1,850","1,850",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Tillman,Total Gov Votes 2026*,"1,607","1,607",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Tillman,Gov Votes Change #,-243,-243,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Tillman,Gov Votes Change %,-13.1%,-13.1%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Tillman,Dem Share of Gov Votes 2022 %,30.5%,30.5%,20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 2,Tillman,Dem Share of Gov Votes 2026* %,31.5%,31.5%,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Tillman,Change (pts),+1.01,+1.01,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Tillman,Dem Share of Registration 2022 %,33.9%,33.9%,vr_2022-11-01_county.pdf,MATCH
+Table 2,Tillman,Total Registered 2022 (Nov 1),"3,996","3,996",vr_2022-11-01_county.pdf,MATCH
+Table 2,Tillman,Dem Share of Registration 2026 %,26.0%,26.0%,vr_2026-11-01_county.pdf,MATCH
+Table 2,Tillman,Total Registered 2026 (Nov 1),"4,033","4,033",vr_2026-11-01_county.pdf,MATCH
+Table 1,Murray,Dem Reg Share 2026 %,25.9%,25.9%,vr_2026-11-01_county.pdf,MATCH
+Table 1,Murray,Dem Reg 2022 (Nov 1),"3,036","3,036",vr_2022-11-01_county.pdf,MATCH
+Table 1,Murray,Dem Reg 2026 (Nov 1),"2,276","2,276",vr_2026-11-01_county.pdf,MATCH
+Table 1,Murray,Reg Change #,-760,-760,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Murray,Reg Change %,-25.0%,-25.0%,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Murray,Dem Gov Votes 2022,"1,398","1,398",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Murray,Dem Gov Votes 2026*,"1,195","1,195",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Murray,Vote Change #,-203,-203,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Murray,Vote Change % (on 2022 base),-14.5%,-14.5%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Murray,Total Gov Votes 2022,"4,251","4,251",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Murray,Total Gov Votes 2026*,"3,835","3,835",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Murray,Gov Votes Change #,-416,-416,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Murray,Gov Votes Change %,-9.8%,-9.8%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Murray,Dem Share of Gov Votes 2022 %,32.9%,32.9%,20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 2,Murray,Dem Share of Gov Votes 2026* %,31.2%,31.2%,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Murray,Change (pts),-1.73,-1.73,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Murray,Dem Share of Registration 2022 %,37.2%,37.2%,vr_2022-11-01_county.pdf,MATCH
+Table 2,Murray,Total Registered 2022 (Nov 1),"8,160","8,160",vr_2022-11-01_county.pdf,MATCH
+Table 2,Murray,Dem Share of Registration 2026 %,25.9%,25.9%,vr_2026-11-01_county.pdf,MATCH
+Table 2,Murray,Total Registered 2026 (Nov 1),"8,782","8,782",vr_2026-11-01_county.pdf,MATCH
+Table 1,Haskell,Dem Reg Share 2026 %,25.9%,25.9%,vr_2026-11-01_county.pdf,MATCH
+Table 1,Haskell,Dem Reg 2022 (Nov 1),"2,773","2,773",vr_2022-11-01_county.pdf,MATCH
+Table 1,Haskell,Dem Reg 2026 (Nov 1),"1,841","1,841",vr_2026-11-01_county.pdf,MATCH
+Table 1,Haskell,Reg Change #,-932,-932,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Haskell,Reg Change %,-33.6%,-33.6%,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Haskell,Dem Gov Votes 2022,985,985,20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Haskell,Dem Gov Votes 2026*,774,774,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Haskell,Vote Change #,-211,-211,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Haskell,Vote Change % (on 2022 base),-21.4%,-21.4%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Haskell,Total Gov Votes 2022,"3,392","3,392",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Haskell,Total Gov Votes 2026*,"2,940","2,940",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Haskell,Gov Votes Change #,-452,-452,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Haskell,Gov Votes Change %,-13.3%,-13.3%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Haskell,Dem Share of Gov Votes 2022 %,29.0%,29.0%,20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 2,Haskell,Dem Share of Gov Votes 2026* %,26.3%,26.3%,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Haskell,Change (pts),-2.71,-2.71,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Haskell,Dem Share of Registration 2022 %,40.0%,40.0%,vr_2022-11-01_county.pdf,MATCH
+Table 2,Haskell,Total Registered 2022 (Nov 1),"6,933","6,933",vr_2022-11-01_county.pdf,MATCH
+Table 2,Haskell,Dem Share of Registration 2026 %,25.9%,25.9%,vr_2026-11-01_county.pdf,MATCH
+Table 2,Haskell,Total Registered 2026 (Nov 1),"7,107","7,107",vr_2026-11-01_county.pdf,MATCH
+Table 1,Seminole,Dem Reg Share 2026 %,25.9%,25.9%,vr_2026-11-01_county.pdf,MATCH
+Table 1,Seminole,Dem Reg 2022 (Nov 1),"4,318","4,318",vr_2022-11-01_county.pdf,MATCH
+Table 1,Seminole,Dem Reg 2026 (Nov 1),"3,321","3,321",vr_2026-11-01_county.pdf,MATCH
+Table 1,Seminole,Reg Change #,-997,-997,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Seminole,Reg Change %,-23.1%,-23.1%,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Seminole,Dem Gov Votes 2022,"2,050","2,050",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Seminole,Dem Gov Votes 2026*,"1,949","1,949",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Seminole,Vote Change #,-101,-101,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Seminole,Vote Change % (on 2022 base),-4.9%,-4.9%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Seminole,Total Gov Votes 2022,"5,861","5,861",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Seminole,Total Gov Votes 2026*,"5,337","5,337",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Seminole,Gov Votes Change #,-524,-524,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Seminole,Gov Votes Change %,-8.9%,-8.9%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Seminole,Dem Share of Gov Votes 2022 %,35.0%,35.0%,20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 2,Seminole,Dem Share of Gov Votes 2026* %,36.5%,36.5%,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Seminole,Change (pts),+1.54,+1.54,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Seminole,Dem Share of Registration 2022 %,34.3%,34.3%,vr_2022-11-01_county.pdf,MATCH
+Table 2,Seminole,Total Registered 2022 (Nov 1),"12,587","12,587",vr_2022-11-01_county.pdf,MATCH
+Table 2,Seminole,Dem Share of Registration 2026 %,25.9%,25.9%,vr_2026-11-01_county.pdf,MATCH
+Table 2,Seminole,Total Registered 2026 (Nov 1),"12,832","12,832",vr_2026-11-01_county.pdf,MATCH
+Table 1,Craig,Dem Reg Share 2026 %,24.9%,24.9%,vr_2026-11-01_county.pdf,MATCH
+Table 1,Craig,Dem Reg 2022 (Nov 1),"2,949","2,949",vr_2022-11-01_county.pdf,MATCH
+Table 1,Craig,Dem Reg 2026 (Nov 1),"2,141","2,141",vr_2026-11-01_county.pdf,MATCH
+Table 1,Craig,Reg Change #,-808,-808,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Craig,Reg Change %,-27.4%,-27.4%,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Craig,Dem Gov Votes 2022,"1,492","1,492",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Craig,Dem Gov Votes 2026*,"1,265","1,265",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Craig,Vote Change #,-227,-227,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Craig,Vote Change % (on 2022 base),-15.2%,-15.2%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Craig,Total Gov Votes 2022,"4,485","4,485",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Craig,Total Gov Votes 2026*,"3,905","3,905",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Craig,Gov Votes Change #,-580,-580,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Craig,Gov Votes Change %,-12.9%,-12.9%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Craig,Dem Share of Gov Votes 2022 %,33.3%,33.3%,20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 2,Craig,Dem Share of Gov Votes 2026* %,32.4%,32.4%,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Craig,Change (pts),-0.87,-0.87,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Craig,Dem Share of Registration 2022 %,35.5%,35.5%,vr_2022-11-01_county.pdf,MATCH
+Table 2,Craig,Total Registered 2022 (Nov 1),"8,314","8,314",vr_2022-11-01_county.pdf,MATCH
+Table 2,Craig,Dem Share of Registration 2026 %,24.9%,24.9%,vr_2026-11-01_county.pdf,MATCH
+Table 2,Craig,Total Registered 2026 (Nov 1),"8,613","8,613",vr_2026-11-01_county.pdf,MATCH
+Table 1,Osage,Dem Reg Share 2026 %,24.8%,24.8%,vr_2026-11-01_county.pdf,MATCH
+Table 1,Osage,Dem Reg 2022 (Nov 1),"8,617","8,617",vr_2022-11-01_county.pdf,MATCH
+Table 1,Osage,Dem Reg 2026 (Nov 1),"7,497","7,497",vr_2026-11-01_county.pdf,MATCH
+Table 1,Osage,Reg Change #,"-1,120","-1,120",vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Osage,Reg Change %,-13.0%,-13.0%,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Osage,Dem Gov Votes 2022,"5,656","5,656",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Osage,Dem Gov Votes 2026*,"5,987","5,987",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Osage,Vote Change #,+331,+331,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Osage,Vote Change % (on 2022 base),+5.9%,+5.9%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Osage,Total Gov Votes 2022,"15,105","15,105",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Osage,Total Gov Votes 2026*,"14,297","14,297",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Osage,Gov Votes Change #,-808,-808,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Osage,Gov Votes Change %,-5.3%,-5.3%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Osage,Dem Share of Gov Votes 2022 %,37.4%,37.4%,20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 2,Osage,Dem Share of Gov Votes 2026* %,41.9%,41.9%,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Osage,Change (pts),+4.43,+4.43,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Osage,Dem Share of Registration 2022 %,30.1%,30.1%,vr_2022-11-01_county.pdf,MATCH
+Table 2,Osage,Total Registered 2022 (Nov 1),"28,624","28,624",vr_2022-11-01_county.pdf,MATCH
+Table 2,Osage,Dem Share of Registration 2026 %,24.8%,24.8%,vr_2026-11-01_county.pdf,MATCH
+Table 2,Osage,Total Registered 2026 (Nov 1),"30,265","30,265",vr_2026-11-01_county.pdf,MATCH
+Table 1,Adair,Dem Reg Share 2026 %,24.4%,24.4%,vr_2026-11-01_county.pdf,MATCH
+Table 1,Adair,Dem Reg 2022 (Nov 1),"3,855","3,855",vr_2022-11-01_county.pdf,MATCH
+Table 1,Adair,Dem Reg 2026 (Nov 1),"2,882","2,882",vr_2026-11-01_county.pdf,MATCH
+Table 1,Adair,Reg Change #,-973,-973,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Adair,Reg Change %,-25.2%,-25.2%,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Adair,Dem Gov Votes 2022,"1,896","1,896",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Adair,Dem Gov Votes 2026*,"1,492","1,492",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Adair,Vote Change #,-404,-404,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Adair,Vote Change % (on 2022 base),-21.3%,-21.3%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Adair,Total Gov Votes 2022,"5,222","5,222",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Adair,Total Gov Votes 2026*,"4,814","4,814",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Adair,Gov Votes Change #,-408,-408,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Adair,Gov Votes Change %,-7.8%,-7.8%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Adair,Dem Share of Gov Votes 2022 %,36.3%,36.3%,20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 2,Adair,Dem Share of Gov Votes 2026* %,31.0%,31.0%,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Adair,Change (pts),-5.31,-5.31,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Adair,Dem Share of Registration 2022 %,35.0%,35.0%,vr_2022-11-01_county.pdf,MATCH
+Table 2,Adair,Total Registered 2022 (Nov 1),"11,001","11,001",vr_2022-11-01_county.pdf,MATCH
+Table 2,Adair,Dem Share of Registration 2026 %,24.4%,24.4%,vr_2026-11-01_county.pdf,MATCH
+Table 2,Adair,Total Registered 2026 (Nov 1),"11,812","11,812",vr_2026-11-01_county.pdf,MATCH
+Table 1,Kiowa,Dem Reg Share 2026 %,24.3%,24.3%,vr_2026-11-01_county.pdf,MATCH
+Table 1,Kiowa,Dem Reg 2022 (Nov 1),"1,648","1,648",vr_2022-11-01_county.pdf,MATCH
+Table 1,Kiowa,Dem Reg 2026 (Nov 1),"1,194","1,194",vr_2026-11-01_county.pdf,MATCH
+Table 1,Kiowa,Reg Change #,-454,-454,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Kiowa,Reg Change %,-27.5%,-27.5%,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Kiowa,Dem Gov Votes 2022,764,764,20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Kiowa,Dem Gov Votes 2026*,744,744,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Kiowa,Vote Change #,-20,-20,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Kiowa,Vote Change % (on 2022 base),-2.6%,-2.6%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Kiowa,Total Gov Votes 2022,"2,461","2,461",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Kiowa,Total Gov Votes 2026*,"2,239","2,239",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Kiowa,Gov Votes Change #,-222,-222,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Kiowa,Gov Votes Change %,-9.0%,-9.0%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Kiowa,Dem Share of Gov Votes 2022 %,31.0%,31.0%,20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 2,Kiowa,Dem Share of Gov Votes 2026* %,33.2%,33.2%,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Kiowa,Change (pts),+2.18,+2.18,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Kiowa,Dem Share of Registration 2022 %,33.6%,33.6%,vr_2022-11-01_county.pdf,MATCH
+Table 2,Kiowa,Total Registered 2022 (Nov 1),"4,902","4,902",vr_2022-11-01_county.pdf,MATCH
+Table 2,Kiowa,Dem Share of Registration 2026 %,24.3%,24.3%,vr_2026-11-01_county.pdf,MATCH
+Table 2,Kiowa,Total Registered 2026 (Nov 1),"4,911","4,911",vr_2026-11-01_county.pdf,MATCH
+Table 1,Payne,Dem Reg Share 2026 %,24.2%,24.2%,vr_2026-11-01_county.pdf,MATCH
+Table 1,Payne,Dem Reg 2022 (Nov 1),"12,311","12,311",vr_2022-11-01_county.pdf,MATCH
+Table 1,Payne,Dem Reg 2026 (Nov 1),"11,069","11,069",vr_2026-11-01_county.pdf,MATCH
+Table 1,Payne,Reg Change #,"-1,242","-1,242",vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Payne,Reg Change %,-10.1%,-10.1%,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Payne,Dem Gov Votes 2022,"10,561","10,561",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Payne,Dem Gov Votes 2026*,"10,733","10,733",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Payne,Vote Change #,+172,+172,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Payne,Vote Change % (on 2022 base),+1.6%,+1.6%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Payne,Total Gov Votes 2022,"22,138","22,138",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Payne,Total Gov Votes 2026*,"20,669","20,669",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Payne,Gov Votes Change #,"-1,469","-1,469",20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Payne,Gov Votes Change %,-6.6%,-6.6%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Payne,Dem Share of Gov Votes 2022 %,47.7%,47.7%,20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 2,Payne,Dem Share of Gov Votes 2026* %,51.9%,51.9%,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Payne,Change (pts),+4.22,+4.22,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Payne,Dem Share of Registration 2022 %,28.3%,28.3%,vr_2022-11-01_county.pdf,MATCH
+Table 2,Payne,Total Registered 2022 (Nov 1),"43,575","43,575",vr_2022-11-01_county.pdf,MATCH
+Table 2,Payne,Dem Share of Registration 2026 %,24.2%,24.2%,vr_2026-11-01_county.pdf,MATCH
+Table 2,Payne,Total Registered 2026 (Nov 1),"45,724","45,724",vr_2026-11-01_county.pdf,MATCH
+Table 1,Pushmataha,Dem Reg Share 2026 %,24.1%,24.1%,vr_2026-11-01_county.pdf,MATCH
+Table 1,Pushmataha,Dem Reg 2022 (Nov 1),"2,733","2,733",vr_2022-11-01_county.pdf,MATCH
+Table 1,Pushmataha,Dem Reg 2026 (Nov 1),"1,750","1,750",vr_2026-11-01_county.pdf,MATCH
+Table 1,Pushmataha,Reg Change #,-983,-983,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Pushmataha,Reg Change %,-36.0%,-36.0%,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Pushmataha,Dem Gov Votes 2022,870,870,20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Pushmataha,Dem Gov Votes 2026*,671,671,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Pushmataha,Vote Change #,-199,-199,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Pushmataha,Vote Change % (on 2022 base),-22.9%,-22.9%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Pushmataha,Total Gov Votes 2022,"3,297","3,297",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Pushmataha,Total Gov Votes 2026*,"3,045","3,045",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Pushmataha,Gov Votes Change #,-252,-252,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Pushmataha,Gov Votes Change %,-7.6%,-7.6%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Pushmataha,Dem Share of Gov Votes 2022 %,26.4%,26.4%,20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 2,Pushmataha,Dem Share of Gov Votes 2026* %,22.0%,22.0%,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Pushmataha,Change (pts),-4.35,-4.35,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Pushmataha,Dem Share of Registration 2022 %,39.8%,39.8%,vr_2022-11-01_county.pdf,MATCH
+Table 2,Pushmataha,Total Registered 2022 (Nov 1),"6,874","6,874",vr_2022-11-01_county.pdf,MATCH
+Table 2,Pushmataha,Dem Share of Registration 2026 %,24.1%,24.1%,vr_2026-11-01_county.pdf,MATCH
+Table 2,Pushmataha,Total Registered 2026 (Nov 1),"7,274","7,274",vr_2026-11-01_county.pdf,MATCH
+Table 1,Pittsburg,Dem Reg Share 2026 %,23.9%,23.9%,vr_2026-11-01_county.pdf,MATCH
+Table 1,Pittsburg,Dem Reg 2022 (Nov 1),"9,284","9,284",vr_2022-11-01_county.pdf,MATCH
+Table 1,Pittsburg,Dem Reg 2026 (Nov 1),"6,636","6,636",vr_2026-11-01_county.pdf,MATCH
+Table 1,Pittsburg,Reg Change #,"-2,648","-2,648",vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Pittsburg,Reg Change %,-28.5%,-28.5%,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Pittsburg,Dem Gov Votes 2022,"3,973","3,973",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Pittsburg,Dem Gov Votes 2026*,"3,606","3,606",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Pittsburg,Vote Change #,-367,-367,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Pittsburg,Vote Change % (on 2022 base),-9.2%,-9.2%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Pittsburg,Total Gov Votes 2022,"12,691","12,691",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Pittsburg,Total Gov Votes 2026*,"11,764","11,764",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Pittsburg,Gov Votes Change #,-927,-927,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Pittsburg,Gov Votes Change %,-7.3%,-7.3%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Pittsburg,Dem Share of Gov Votes 2022 %,31.3%,31.3%,20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 2,Pittsburg,Dem Share of Gov Votes 2026* %,30.7%,30.7%,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Pittsburg,Change (pts),-0.65,-0.65,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Pittsburg,Dem Share of Registration 2022 %,34.2%,34.2%,vr_2022-11-01_county.pdf,MATCH
+Table 2,Pittsburg,Total Registered 2022 (Nov 1),"27,170","27,170",vr_2022-11-01_county.pdf,MATCH
+Table 2,Pittsburg,Dem Share of Registration 2026 %,23.9%,23.9%,vr_2026-11-01_county.pdf,MATCH
+Table 2,Pittsburg,Total Registered 2026 (Nov 1),"27,773","27,773",vr_2026-11-01_county.pdf,MATCH
+Table 1,Johnston,Dem Reg Share 2026 %,23.8%,23.8%,vr_2026-11-01_county.pdf,MATCH
+Table 1,Johnston,Dem Reg 2022 (Nov 1),"2,131","2,131",vr_2022-11-01_county.pdf,MATCH
+Table 1,Johnston,Dem Reg 2026 (Nov 1),"1,492","1,492",vr_2026-11-01_county.pdf,MATCH
+Table 1,Johnston,Reg Change #,-639,-639,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Johnston,Reg Change %,-30.0%,-30.0%,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Johnston,Dem Gov Votes 2022,867,867,20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Johnston,Dem Gov Votes 2026*,662,662,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Johnston,Vote Change #,-205,-205,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Johnston,Vote Change % (on 2022 base),-23.6%,-23.6%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Johnston,Total Gov Votes 2022,"2,963","2,963",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Johnston,Total Gov Votes 2026*,"2,597","2,597",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Johnston,Gov Votes Change #,-366,-366,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Johnston,Gov Votes Change %,-12.4%,-12.4%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Johnston,Dem Share of Gov Votes 2022 %,29.3%,29.3%,20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 2,Johnston,Dem Share of Gov Votes 2026* %,25.5%,25.5%,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Johnston,Change (pts),-3.77,-3.77,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Johnston,Dem Share of Registration 2022 %,35.3%,35.3%,vr_2022-11-01_county.pdf,MATCH
+Table 2,Johnston,Total Registered 2022 (Nov 1),"6,038","6,038",vr_2022-11-01_county.pdf,MATCH
+Table 2,Johnston,Dem Share of Registration 2026 %,23.8%,23.8%,vr_2026-11-01_county.pdf,MATCH
+Table 2,Johnston,Total Registered 2026 (Nov 1),"6,277","6,277",vr_2026-11-01_county.pdf,MATCH
+Table 1,McCurtain,Dem Reg Share 2026 %,23.5%,23.5%,vr_2026-11-01_county.pdf,MATCH
+Table 1,McCurtain,Dem Reg 2022 (Nov 1),"6,150","6,150",vr_2022-11-01_county.pdf,MATCH
+Table 1,McCurtain,Dem Reg 2026 (Nov 1),"4,209","4,209",vr_2026-11-01_county.pdf,MATCH
+Table 1,McCurtain,Reg Change #,"-1,941","-1,941",vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,McCurtain,Reg Change %,-31.6%,-31.6%,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,McCurtain,Dem Gov Votes 2022,"2,311","2,311",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,McCurtain,Dem Gov Votes 2026*,"1,616","1,616",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,McCurtain,Vote Change #,-695,-695,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,McCurtain,Vote Change % (on 2022 base),-30.1%,-30.1%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,McCurtain,Total Gov Votes 2022,"8,248","8,248",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,McCurtain,Total Gov Votes 2026*,"6,761","6,761",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,McCurtain,Gov Votes Change #,"-1,487","-1,487",20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,McCurtain,Gov Votes Change %,-18.0%,-18.0%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,McCurtain,Dem Share of Gov Votes 2022 %,28.0%,28.0%,20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 2,McCurtain,Dem Share of Gov Votes 2026* %,23.9%,23.9%,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,McCurtain,Change (pts),-4.12,-4.12,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,McCurtain,Dem Share of Registration 2022 %,36.6%,36.6%,vr_2022-11-01_county.pdf,MATCH
+Table 2,McCurtain,Total Registered 2022 (Nov 1),"16,791","16,791",vr_2022-11-01_county.pdf,MATCH
+Table 2,McCurtain,Dem Share of Registration 2026 %,23.5%,23.5%,vr_2026-11-01_county.pdf,MATCH
+Table 2,McCurtain,Total Registered 2026 (Nov 1),"17,910","17,910",vr_2026-11-01_county.pdf,MATCH
+Table 1,Ottawa,Dem Reg Share 2026 %,23.4%,23.4%,vr_2026-11-01_county.pdf,MATCH
+Table 1,Ottawa,Dem Reg 2022 (Nov 1),"5,600","5,600",vr_2022-11-01_county.pdf,MATCH
+Table 1,Ottawa,Dem Reg 2026 (Nov 1),"4,426","4,426",vr_2026-11-01_county.pdf,MATCH
+Table 1,Ottawa,Reg Change #,"-1,174","-1,174",vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Ottawa,Reg Change %,-21.0%,-21.0%,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Ottawa,Dem Gov Votes 2022,"2,649","2,649",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Ottawa,Dem Gov Votes 2026*,"2,522","2,522",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Ottawa,Vote Change #,-127,-127,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Ottawa,Vote Change % (on 2022 base),-4.8%,-4.8%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Ottawa,Total Gov Votes 2022,"7,688","7,688",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Ottawa,Total Gov Votes 2026*,"6,945","6,945",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Ottawa,Gov Votes Change #,-743,-743,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Ottawa,Gov Votes Change %,-9.7%,-9.7%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Ottawa,Dem Share of Gov Votes 2022 %,34.5%,34.5%,20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 2,Ottawa,Dem Share of Gov Votes 2026* %,36.3%,36.3%,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Ottawa,Change (pts),+1.86,+1.86,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Ottawa,Dem Share of Registration 2022 %,30.9%,30.9%,vr_2022-11-01_county.pdf,MATCH
+Table 2,Ottawa,Total Registered 2022 (Nov 1),"18,099","18,099",vr_2022-11-01_county.pdf,MATCH
+Table 2,Ottawa,Dem Share of Registration 2026 %,23.4%,23.4%,vr_2026-11-01_county.pdf,MATCH
+Table 2,Ottawa,Total Registered 2026 (Nov 1),"18,913","18,913",vr_2026-11-01_county.pdf,MATCH
+Table 1,Greer,Dem Reg Share 2026 %,23.3%,23.3%,vr_2026-11-01_county.pdf,MATCH
+Table 1,Greer,Dem Reg 2022 (Nov 1),"1,057","1,057",vr_2022-11-01_county.pdf,MATCH
+Table 1,Greer,Dem Reg 2026 (Nov 1),683,683,vr_2026-11-01_county.pdf,MATCH
+Table 1,Greer,Reg Change #,-374,-374,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Greer,Reg Change %,-35.4%,-35.4%,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Greer,Dem Gov Votes 2022,394,394,20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Greer,Dem Gov Votes 2026*,383,383,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Greer,Vote Change #,-11,-11,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Greer,Vote Change % (on 2022 base),-2.8%,-2.8%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Greer,Total Gov Votes 2022,"1,342","1,342",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Greer,Total Gov Votes 2026*,"1,304","1,304",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Greer,Gov Votes Change #,-38,-38,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Greer,Gov Votes Change %,-2.8%,-2.8%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Greer,Dem Share of Gov Votes 2022 %,29.4%,29.4%,20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 2,Greer,Dem Share of Gov Votes 2026* %,29.4%,29.4%,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Greer,Change (pts),+0.01,+0.01,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Greer,Dem Share of Registration 2022 %,36.1%,36.1%,vr_2022-11-01_county.pdf,MATCH
+Table 2,Greer,Total Registered 2022 (Nov 1),"2,925","2,925",vr_2022-11-01_county.pdf,MATCH
+Table 2,Greer,Dem Share of Registration 2026 %,23.3%,23.3%,vr_2026-11-01_county.pdf,MATCH
+Table 2,Greer,Total Registered 2026 (Nov 1),"2,930","2,930",vr_2026-11-01_county.pdf,MATCH
+Table 1,Atoka,Dem Reg Share 2026 %,23.3%,23.3%,vr_2026-11-01_county.pdf,MATCH
+Table 1,Atoka,Dem Reg 2022 (Nov 1),"2,970","2,970",vr_2022-11-01_county.pdf,MATCH
+Table 1,Atoka,Dem Reg 2026 (Nov 1),"1,960","1,960",vr_2026-11-01_county.pdf,MATCH
+Table 1,Atoka,Reg Change #,"-1,010","-1,010",vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Atoka,Reg Change %,-34.0%,-34.0%,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Atoka,Dem Gov Votes 2022,"1,011","1,011",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Atoka,Dem Gov Votes 2026*,741,741,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Atoka,Vote Change #,-270,-270,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Atoka,Vote Change % (on 2022 base),-26.7%,-26.7%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Atoka,Total Gov Votes 2022,"3,921","3,921",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Atoka,Total Gov Votes 2026*,"3,314","3,314",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Atoka,Gov Votes Change #,-607,-607,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Atoka,Gov Votes Change %,-15.5%,-15.5%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Atoka,Dem Share of Gov Votes 2022 %,25.8%,25.8%,20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 2,Atoka,Dem Share of Gov Votes 2026* %,22.4%,22.4%,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Atoka,Change (pts),-3.42,-3.42,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Atoka,Dem Share of Registration 2022 %,37.9%,37.9%,vr_2022-11-01_county.pdf,MATCH
+Table 2,Atoka,Total Registered 2022 (Nov 1),"7,842","7,842",vr_2022-11-01_county.pdf,MATCH
+Table 2,Atoka,Dem Share of Registration 2026 %,23.3%,23.3%,vr_2026-11-01_county.pdf,MATCH
+Table 2,Atoka,Total Registered 2026 (Nov 1),"8,428","8,428",vr_2026-11-01_county.pdf,MATCH
+Table 1,Sequoyah,Dem Reg Share 2026 %,22.6%,22.6%,vr_2026-11-01_county.pdf,MATCH
+Table 1,Sequoyah,Dem Reg 2022 (Nov 1),"7,992","7,992",vr_2022-11-01_county.pdf,MATCH
+Table 1,Sequoyah,Dem Reg 2026 (Nov 1),"5,695","5,695",vr_2026-11-01_county.pdf,MATCH
+Table 1,Sequoyah,Reg Change #,"-2,297","-2,297",vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Sequoyah,Reg Change %,-28.7%,-28.7%,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Sequoyah,Dem Gov Votes 2022,"3,329","3,329",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Sequoyah,Dem Gov Votes 2026*,"2,786","2,786",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Sequoyah,Vote Change #,-543,-543,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Sequoyah,Vote Change % (on 2022 base),-16.3%,-16.3%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Sequoyah,Total Gov Votes 2022,"10,274","10,274",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Sequoyah,Total Gov Votes 2026*,"9,281","9,281",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Sequoyah,Gov Votes Change #,-993,-993,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Sequoyah,Gov Votes Change %,-9.7%,-9.7%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Sequoyah,Dem Share of Gov Votes 2022 %,32.4%,32.4%,20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 2,Sequoyah,Dem Share of Gov Votes 2026* %,30.0%,30.0%,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Sequoyah,Change (pts),-2.38,-2.38,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Sequoyah,Dem Share of Registration 2022 %,33.9%,33.9%,vr_2022-11-01_county.pdf,MATCH
+Table 2,Sequoyah,Total Registered 2022 (Nov 1),"23,603","23,603",vr_2022-11-01_county.pdf,MATCH
+Table 2,Sequoyah,Dem Share of Registration 2026 %,22.6%,22.6%,vr_2026-11-01_county.pdf,MATCH
+Table 2,Sequoyah,Total Registered 2026 (Nov 1),"25,179","25,179",vr_2026-11-01_county.pdf,MATCH
+Table 1,Carter,Dem Reg Share 2026 %,22.4%,22.4%,vr_2026-11-01_county.pdf,MATCH
+Table 1,Carter,Dem Reg 2022 (Nov 1),"9,162","9,162",vr_2022-11-01_county.pdf,MATCH
+Table 1,Carter,Dem Reg 2026 (Nov 1),"7,127","7,127",vr_2026-11-01_county.pdf,MATCH
+Table 1,Carter,Reg Change #,"-2,035","-2,035",vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Carter,Reg Change %,-22.2%,-22.2%,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Carter,Dem Gov Votes 2022,"4,332","4,332",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Carter,Dem Gov Votes 2026*,"3,980","3,980",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Carter,Vote Change #,-352,-352,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Carter,Vote Change % (on 2022 base),-8.1%,-8.1%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Carter,Total Gov Votes 2022,"13,408","13,408",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Carter,Total Gov Votes 2026*,"12,144","12,144",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Carter,Gov Votes Change #,"-1,264","-1,264",20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Carter,Gov Votes Change %,-9.4%,-9.4%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Carter,Dem Share of Gov Votes 2022 %,32.3%,32.3%,20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 2,Carter,Dem Share of Gov Votes 2026* %,32.8%,32.8%,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Carter,Change (pts),+0.46,+0.46,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Carter,Dem Share of Registration 2022 %,29.6%,29.6%,vr_2022-11-01_county.pdf,MATCH
+Table 2,Carter,Total Registered 2022 (Nov 1),"30,984","30,984",vr_2022-11-01_county.pdf,MATCH
+Table 2,Carter,Dem Share of Registration 2026 %,22.4%,22.4%,vr_2026-11-01_county.pdf,MATCH
+Table 2,Carter,Total Registered 2026 (Nov 1),"31,800","31,800",vr_2026-11-01_county.pdf,MATCH
+Table 1,Love,Dem Reg Share 2026 %,22.4%,22.4%,vr_2026-11-01_county.pdf,MATCH
+Table 1,Love,Dem Reg 2022 (Nov 1),"2,254","2,254",vr_2022-11-01_county.pdf,MATCH
+Table 1,Love,Dem Reg 2026 (Nov 1),"1,541","1,541",vr_2026-11-01_county.pdf,MATCH
+Table 1,Love,Reg Change #,-713,-713,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Love,Reg Change %,-31.6%,-31.6%,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Love,Dem Gov Votes 2022,703,703,20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Love,Dem Gov Votes 2026*,703,703,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Love,Vote Change #,0,0,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Love,Vote Change % (on 2022 base),+0.0%,+0.0%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Love,Total Gov Votes 2022,"2,742","2,742",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Love,Total Gov Votes 2026*,"2,494","2,494",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Love,Gov Votes Change #,-248,-248,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Love,Gov Votes Change %,-9.0%,-9.0%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Love,Dem Share of Gov Votes 2022 %,25.6%,25.6%,20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 2,Love,Dem Share of Gov Votes 2026* %,28.2%,28.2%,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Love,Change (pts),+2.55,+2.55,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Love,Dem Share of Registration 2022 %,34.4%,34.4%,vr_2022-11-01_county.pdf,MATCH
+Table 2,Love,Total Registered 2022 (Nov 1),"6,548","6,548",vr_2022-11-01_county.pdf,MATCH
+Table 2,Love,Dem Share of Registration 2026 %,22.4%,22.4%,vr_2026-11-01_county.pdf,MATCH
+Table 2,Love,Total Registered 2026 (Nov 1),"6,881","6,881",vr_2026-11-01_county.pdf,MATCH
+Table 1,Pottawatomie,Dem Reg Share 2026 %,21.5%,21.5%,vr_2026-11-01_county.pdf,MATCH
+Table 1,Pottawatomie,Dem Reg 2022 (Nov 1),"11,144","11,144",vr_2022-11-01_county.pdf,MATCH
+Table 1,Pottawatomie,Dem Reg 2026 (Nov 1),"9,526","9,526",vr_2026-11-01_county.pdf,MATCH
+Table 1,Pottawatomie,Reg Change #,"-1,618","-1,618",vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Pottawatomie,Reg Change %,-14.5%,-14.5%,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Pottawatomie,Dem Gov Votes 2022,"7,651","7,651",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Pottawatomie,Dem Gov Votes 2026*,"7,815","7,815",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Pottawatomie,Vote Change #,+164,+164,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Pottawatomie,Vote Change % (on 2022 base),+2.1%,+2.1%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Pottawatomie,Total Gov Votes 2022,"20,713","20,713",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Pottawatomie,Total Gov Votes 2026*,"20,255","20,255",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Pottawatomie,Gov Votes Change #,-458,-458,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Pottawatomie,Gov Votes Change %,-2.2%,-2.2%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Pottawatomie,Dem Share of Gov Votes 2022 %,36.9%,36.9%,20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 2,Pottawatomie,Dem Share of Gov Votes 2026* %,38.6%,38.6%,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Pottawatomie,Change (pts),+1.64,+1.64,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Pottawatomie,Dem Share of Registration 2022 %,27.1%,27.1%,vr_2022-11-01_county.pdf,MATCH
+Table 2,Pottawatomie,Total Registered 2022 (Nov 1),"41,084","41,084",vr_2022-11-01_county.pdf,MATCH
+Table 2,Pottawatomie,Dem Share of Registration 2026 %,21.5%,21.5%,vr_2026-11-01_county.pdf,MATCH
+Table 2,Pottawatomie,Total Registered 2026 (Nov 1),"44,363","44,363",vr_2026-11-01_county.pdf,MATCH
+Table 1,Bryan,Dem Reg Share 2026 %,21.3%,21.3%,vr_2026-11-01_county.pdf,MATCH
+Table 1,Bryan,Dem Reg 2022 (Nov 1),"7,689","7,689",vr_2022-11-01_county.pdf,MATCH
+Table 1,Bryan,Dem Reg 2026 (Nov 1),"6,540","6,540",vr_2026-11-01_county.pdf,MATCH
+Table 1,Bryan,Reg Change #,"-1,149","-1,149",vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Bryan,Reg Change %,-14.9%,-14.9%,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Bryan,Dem Gov Votes 2022,"3,941","3,941",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Bryan,Dem Gov Votes 2026*,"3,617","3,617",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Bryan,Vote Change #,-324,-324,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Bryan,Vote Change % (on 2022 base),-8.2%,-8.2%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Bryan,Total Gov Votes 2022,"11,467","11,467",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Bryan,Total Gov Votes 2026*,"11,532","11,532",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Bryan,Gov Votes Change #,+65,+65,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Bryan,Gov Votes Change %,+0.6%,+0.6%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Bryan,Dem Share of Gov Votes 2022 %,34.4%,34.4%,20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 2,Bryan,Dem Share of Gov Votes 2026* %,31.4%,31.4%,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Bryan,Change (pts),-3.00,-3.00,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Bryan,Dem Share of Registration 2022 %,30.0%,30.0%,vr_2022-11-01_county.pdf,MATCH
+Table 2,Bryan,Total Registered 2022 (Nov 1),"25,631","25,631",vr_2022-11-01_county.pdf,MATCH
+Table 2,Bryan,Dem Share of Registration 2026 %,21.3%,21.3%,vr_2026-11-01_county.pdf,MATCH
+Table 2,Bryan,Total Registered 2026 (Nov 1),"30,747","30,747",vr_2026-11-01_county.pdf,MATCH
+Table 1,Le Flore,Dem Reg Share 2026 %,20.9%,20.9%,vr_2026-11-01_county.pdf,MATCH
+Table 1,Le Flore,Dem Reg 2022 (Nov 1),"8,734","8,734",vr_2022-11-01_county.pdf,MATCH
+Table 1,Le Flore,Dem Reg 2026 (Nov 1),"6,403","6,403",vr_2026-11-01_county.pdf,MATCH
+Table 1,Le Flore,Reg Change #,"-2,331","-2,331",vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Le Flore,Reg Change %,-26.7%,-26.7%,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Le Flore,Dem Gov Votes 2022,"3,377","3,377",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Le Flore,Dem Gov Votes 2026*,"2,998","2,998",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Le Flore,Vote Change #,-379,-379,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Le Flore,Vote Change % (on 2022 base),-11.2%,-11.2%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Le Flore,Total Gov Votes 2022,"12,141","12,141",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Le Flore,Total Gov Votes 2026*,"11,401","11,401",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Le Flore,Gov Votes Change #,-740,-740,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Le Flore,Gov Votes Change %,-6.1%,-6.1%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Le Flore,Dem Share of Gov Votes 2022 %,27.8%,27.8%,20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 2,Le Flore,Dem Share of Gov Votes 2026* %,26.3%,26.3%,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Le Flore,Change (pts),-1.52,-1.52,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Le Flore,Dem Share of Registration 2022 %,30.6%,30.6%,vr_2022-11-01_county.pdf,MATCH
+Table 2,Le Flore,Total Registered 2022 (Nov 1),"28,509","28,509",vr_2022-11-01_county.pdf,MATCH
+Table 2,Le Flore,Dem Share of Registration 2026 %,20.9%,20.9%,vr_2026-11-01_county.pdf,MATCH
+Table 2,Le Flore,Total Registered 2026 (Nov 1),"30,569","30,569",vr_2026-11-01_county.pdf,MATCH
+Table 1,Jefferson,Dem Reg Share 2026 %,20.9%,20.9%,vr_2026-11-01_county.pdf,MATCH
+Table 1,Jefferson,Dem Reg 2022 (Nov 1),"1,074","1,074",vr_2022-11-01_county.pdf,MATCH
+Table 1,Jefferson,Dem Reg 2026 (Nov 1),745,745,vr_2026-11-01_county.pdf,MATCH
+Table 1,Jefferson,Reg Change #,-329,-329,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Jefferson,Reg Change %,-30.6%,-30.6%,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Jefferson,Dem Gov Votes 2022,444,444,20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Jefferson,Dem Gov Votes 2026*,346,346,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Jefferson,Vote Change #,-98,-98,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Jefferson,Vote Change % (on 2022 base),-22.1%,-22.1%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Jefferson,Total Gov Votes 2022,"1,613","1,613",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Jefferson,Total Gov Votes 2026*,"1,406","1,406",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Jefferson,Gov Votes Change #,-207,-207,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Jefferson,Gov Votes Change %,-12.8%,-12.8%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Jefferson,Dem Share of Gov Votes 2022 %,27.5%,27.5%,20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 2,Jefferson,Dem Share of Gov Votes 2026* %,24.6%,24.6%,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Jefferson,Change (pts),-2.92,-2.92,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Jefferson,Dem Share of Registration 2022 %,30.7%,30.7%,vr_2022-11-01_county.pdf,MATCH
+Table 2,Jefferson,Total Registered 2022 (Nov 1),"3,495","3,495",vr_2022-11-01_county.pdf,MATCH
+Table 2,Jefferson,Dem Share of Registration 2026 %,20.9%,20.9%,vr_2026-11-01_county.pdf,MATCH
+Table 2,Jefferson,Total Registered 2026 (Nov 1),"3,558","3,558",vr_2026-11-01_county.pdf,MATCH
+Table 1,Custer,Dem Reg Share 2026 %,20.6%,20.6%,vr_2026-11-01_county.pdf,MATCH
+Table 1,Custer,Dem Reg 2022 (Nov 1),"3,866","3,866",vr_2022-11-01_county.pdf,MATCH
+Table 1,Custer,Dem Reg 2026 (Nov 1),"3,257","3,257",vr_2026-11-01_county.pdf,MATCH
+Table 1,Custer,Reg Change #,-609,-609,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Custer,Reg Change %,-15.8%,-15.8%,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Custer,Dem Gov Votes 2022,"2,461","2,461",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Custer,Dem Gov Votes 2026*,"2,738","2,738",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Custer,Vote Change #,+277,+277,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Custer,Vote Change % (on 2022 base),+11.3%,+11.3%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Custer,Total Gov Votes 2022,"7,492","7,492",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Custer,Total Gov Votes 2026*,"7,208","7,208",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Custer,Gov Votes Change #,-284,-284,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Custer,Gov Votes Change %,-3.8%,-3.8%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Custer,Dem Share of Gov Votes 2022 %,32.8%,32.8%,20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 2,Custer,Dem Share of Gov Votes 2026* %,38.0%,38.0%,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Custer,Change (pts),+5.14,+5.14,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Custer,Dem Share of Registration 2022 %,24.5%,24.5%,vr_2022-11-01_county.pdf,MATCH
+Table 2,Custer,Total Registered 2022 (Nov 1),"15,801","15,801",vr_2022-11-01_county.pdf,MATCH
+Table 2,Custer,Dem Share of Registration 2026 %,20.6%,20.6%,vr_2026-11-01_county.pdf,MATCH
+Table 2,Custer,Total Registered 2026 (Nov 1),"15,822","15,822",vr_2026-11-01_county.pdf,MATCH
+Table 1,Mayes,Dem Reg Share 2026 %,20.6%,20.6%,vr_2026-11-01_county.pdf,MATCH
+Table 1,Mayes,Dem Reg 2022 (Nov 1),"6,634","6,634",vr_2022-11-01_county.pdf,MATCH
+Table 1,Mayes,Dem Reg 2026 (Nov 1),"5,316","5,316",vr_2026-11-01_county.pdf,MATCH
+Table 1,Mayes,Reg Change #,"-1,318","-1,318",vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Mayes,Reg Change %,-19.9%,-19.9%,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Mayes,Dem Gov Votes 2022,"4,205","4,205",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Mayes,Dem Gov Votes 2026*,"3,951","3,951",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Mayes,Vote Change #,-254,-254,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Mayes,Vote Change % (on 2022 base),-6.0%,-6.0%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Mayes,Total Gov Votes 2022,"12,650","12,650",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Mayes,Total Gov Votes 2026*,"11,478","11,478",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Mayes,Gov Votes Change #,"-1,172","-1,172",20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Mayes,Gov Votes Change %,-9.3%,-9.3%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Mayes,Dem Share of Gov Votes 2022 %,33.2%,33.2%,20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 2,Mayes,Dem Share of Gov Votes 2026* %,34.4%,34.4%,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Mayes,Change (pts),+1.18,+1.18,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Mayes,Dem Share of Registration 2022 %,27.9%,27.9%,vr_2022-11-01_county.pdf,MATCH
+Table 2,Mayes,Total Registered 2022 (Nov 1),"23,764","23,764",vr_2022-11-01_county.pdf,MATCH
+Table 2,Mayes,Dem Share of Registration 2026 %,20.6%,20.6%,vr_2026-11-01_county.pdf,MATCH
+Table 2,Mayes,Total Registered 2026 (Nov 1),"25,865","25,865",vr_2026-11-01_county.pdf,MATCH
+Table 1,Garvin,Dem Reg Share 2026 %,20.3%,20.3%,vr_2026-11-01_county.pdf,MATCH
+Table 1,Garvin,Dem Reg 2022 (Nov 1),"4,356","4,356",vr_2022-11-01_county.pdf,MATCH
+Table 1,Garvin,Dem Reg 2026 (Nov 1),"3,388","3,388",vr_2026-11-01_county.pdf,MATCH
+Table 1,Garvin,Reg Change #,-968,-968,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Garvin,Reg Change %,-22.2%,-22.2%,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Garvin,Dem Gov Votes 2022,"2,296","2,296",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Garvin,Dem Gov Votes 2026*,"1,998","1,998",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Garvin,Vote Change #,-298,-298,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Garvin,Vote Change % (on 2022 base),-13.0%,-13.0%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Garvin,Total Gov Votes 2022,"8,122","8,122",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Garvin,Total Gov Votes 2026*,"6,994","6,994",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Garvin,Gov Votes Change #,"-1,128","-1,128",20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Garvin,Gov Votes Change %,-13.9%,-13.9%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Garvin,Dem Share of Gov Votes 2022 %,28.3%,28.3%,20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 2,Garvin,Dem Share of Gov Votes 2026* %,28.6%,28.6%,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Garvin,Change (pts),+0.30,+0.30,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Garvin,Dem Share of Registration 2022 %,27.0%,27.0%,vr_2022-11-01_county.pdf,MATCH
+Table 2,Garvin,Total Registered 2022 (Nov 1),"16,126","16,126",vr_2022-11-01_county.pdf,MATCH
+Table 2,Garvin,Dem Share of Registration 2026 %,20.3%,20.3%,vr_2026-11-01_county.pdf,MATCH
+Table 2,Garvin,Total Registered 2026 (Nov 1),"16,680","16,680",vr_2026-11-01_county.pdf,MATCH
+Table 1,Canadian,Dem Reg Share 2026 %,20.1%,20.1%,vr_2026-11-01_county.pdf,MATCH
+Table 1,Canadian,Dem Reg 2022 (Nov 1),"19,918","19,918",vr_2022-11-01_county.pdf,MATCH
+Table 1,Canadian,Dem Reg 2026 (Nov 1),"22,904","22,904",vr_2026-11-01_county.pdf,MATCH
+Table 1,Canadian,Reg Change #,"+2,986","+2,986",vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Canadian,Reg Change %,+15.0%,+15.0%,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Canadian,Dem Gov Votes 2022,"19,306","19,306",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Canadian,Dem Gov Votes 2026*,"24,951","24,951",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Canadian,Vote Change #,"+5,645","+5,645",20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Canadian,Vote Change % (on 2022 base),+29.2%,+29.2%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Canadian,Total Gov Votes 2022,"50,214","50,214",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Canadian,Total Gov Votes 2026*,"54,410","54,410",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Canadian,Gov Votes Change #,"+4,196","+4,196",20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Canadian,Gov Votes Change %,+8.4%,+8.4%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Canadian,Dem Share of Gov Votes 2022 %,38.4%,38.4%,20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 2,Canadian,Dem Share of Gov Votes 2026* %,45.9%,45.9%,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Canadian,Change (pts),+7.41,+7.41,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Canadian,Dem Share of Registration 2022 %,21.0%,21.0%,vr_2022-11-01_county.pdf,MATCH
+Table 2,Canadian,Total Registered 2022 (Nov 1),"94,939","94,939",vr_2022-11-01_county.pdf,MATCH
+Table 2,Canadian,Dem Share of Registration 2026 %,20.1%,20.1%,vr_2026-11-01_county.pdf,MATCH
+Table 2,Canadian,Total Registered 2026 (Nov 1),"113,750","113,750",vr_2026-11-01_county.pdf,MATCH
+Table 1,Cotton,Dem Reg Share 2026 %,19.8%,19.8%,vr_2026-11-01_county.pdf,MATCH
+Table 1,Cotton,Dem Reg 2022 (Nov 1),"1,108","1,108",vr_2022-11-01_county.pdf,MATCH
+Table 1,Cotton,Dem Reg 2026 (Nov 1),755,755,vr_2026-11-01_county.pdf,MATCH
+Table 1,Cotton,Reg Change #,-353,-353,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Cotton,Reg Change %,-31.9%,-31.9%,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Cotton,Dem Gov Votes 2022,545,545,20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Cotton,Dem Gov Votes 2026*,418,418,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Cotton,Vote Change #,-127,-127,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Cotton,Vote Change % (on 2022 base),-23.3%,-23.3%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Cotton,Total Gov Votes 2022,"1,843","1,843",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Cotton,Total Gov Votes 2026*,"1,534","1,534",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Cotton,Gov Votes Change #,-309,-309,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Cotton,Gov Votes Change %,-16.8%,-16.8%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Cotton,Dem Share of Gov Votes 2022 %,29.6%,29.6%,20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 2,Cotton,Dem Share of Gov Votes 2026* %,27.2%,27.2%,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Cotton,Change (pts),-2.32,-2.32,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Cotton,Dem Share of Registration 2022 %,29.3%,29.3%,vr_2022-11-01_county.pdf,MATCH
+Table 2,Cotton,Total Registered 2022 (Nov 1),"3,788","3,788",vr_2022-11-01_county.pdf,MATCH
+Table 2,Cotton,Dem Share of Registration 2026 %,19.8%,19.8%,vr_2026-11-01_county.pdf,MATCH
+Table 2,Cotton,Total Registered 2026 (Nov 1),"3,819","3,819",vr_2026-11-01_county.pdf,MATCH
+Table 1,Wagoner,Dem Reg Share 2026 %,19.5%,19.5%,vr_2026-11-01_county.pdf,MATCH
+Table 1,Wagoner,Dem Reg 2022 (Nov 1),"11,413","11,413",vr_2022-11-01_county.pdf,MATCH
+Table 1,Wagoner,Dem Reg 2026 (Nov 1),"11,007","11,007",vr_2026-11-01_county.pdf,MATCH
+Table 1,Wagoner,Reg Change #,-406,-406,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Wagoner,Reg Change %,-3.6%,-3.6%,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Wagoner,Dem Gov Votes 2022,"8,846","8,846",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Wagoner,Dem Gov Votes 2026*,"9,965","9,965",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Wagoner,Vote Change #,"+1,119","+1,119",20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Wagoner,Vote Change % (on 2022 base),+12.6%,+12.6%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Wagoner,Total Gov Votes 2022,"26,870","26,870",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Wagoner,Total Gov Votes 2026*,"26,754","26,754",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Wagoner,Gov Votes Change #,-116,-116,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Wagoner,Gov Votes Change %,-0.4%,-0.4%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Wagoner,Dem Share of Gov Votes 2022 %,32.9%,32.9%,20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 2,Wagoner,Dem Share of Gov Votes 2026* %,37.2%,37.2%,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Wagoner,Change (pts),+4.33,+4.33,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Wagoner,Dem Share of Registration 2022 %,23.4%,23.4%,vr_2022-11-01_county.pdf,MATCH
+Table 2,Wagoner,Total Registered 2022 (Nov 1),"48,810","48,810",vr_2022-11-01_county.pdf,MATCH
+Table 2,Wagoner,Dem Share of Registration 2026 %,19.5%,19.5%,vr_2026-11-01_county.pdf,MATCH
+Table 2,Wagoner,Total Registered 2026 (Nov 1),"56,517","56,517",vr_2026-11-01_county.pdf,MATCH
+Table 1,Marshall,Dem Reg Share 2026 %,19.3%,19.3%,vr_2026-11-01_county.pdf,MATCH
+Table 1,Marshall,Dem Reg 2022 (Nov 1),"2,625","2,625",vr_2022-11-01_county.pdf,MATCH
+Table 1,Marshall,Dem Reg 2026 (Nov 1),"2,047","2,047",vr_2026-11-01_county.pdf,MATCH
+Table 1,Marshall,Reg Change #,-578,-578,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Marshall,Reg Change %,-22.0%,-22.0%,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Marshall,Dem Gov Votes 2022,"1,312","1,312",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Marshall,Dem Gov Votes 2026*,"1,199","1,199",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Marshall,Vote Change #,-113,-113,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Marshall,Vote Change % (on 2022 base),-8.6%,-8.6%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Marshall,Total Gov Votes 2022,"4,391","4,391",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Marshall,Total Gov Votes 2026*,"4,508","4,508",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Marshall,Gov Votes Change #,+117,+117,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Marshall,Gov Votes Change %,+2.7%,+2.7%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Marshall,Dem Share of Gov Votes 2022 %,29.9%,29.9%,20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 2,Marshall,Dem Share of Gov Votes 2026* %,26.6%,26.6%,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Marshall,Change (pts),-3.28,-3.28,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Marshall,Dem Share of Registration 2022 %,28.3%,28.3%,vr_2022-11-01_county.pdf,MATCH
+Table 2,Marshall,Total Registered 2022 (Nov 1),"9,279","9,279",vr_2022-11-01_county.pdf,MATCH
+Table 2,Marshall,Dem Share of Registration 2026 %,19.3%,19.3%,vr_2026-11-01_county.pdf,MATCH
+Table 2,Marshall,Total Registered 2026 (Nov 1),"10,618","10,618",vr_2026-11-01_county.pdf,MATCH
+Table 1,Kay,Dem Reg Share 2026 %,19.1%,19.1%,vr_2026-11-01_county.pdf,MATCH
+Table 1,Kay,Dem Reg 2022 (Nov 1),"5,756","5,756",vr_2022-11-01_county.pdf,MATCH
+Table 1,Kay,Dem Reg 2026 (Nov 1),"5,026","5,026",vr_2026-11-01_county.pdf,MATCH
+Table 1,Kay,Reg Change #,-730,-730,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Kay,Reg Change %,-12.7%,-12.7%,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Kay,Dem Gov Votes 2022,"4,204","4,204",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Kay,Dem Gov Votes 2026*,"4,420","4,420",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Kay,Vote Change #,+216,+216,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Kay,Vote Change % (on 2022 base),+5.1%,+5.1%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Kay,Total Gov Votes 2022,"12,532","12,532",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Kay,Total Gov Votes 2026*,"11,808","11,808",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Kay,Gov Votes Change #,-724,-724,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Kay,Gov Votes Change %,-5.8%,-5.8%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Kay,Dem Share of Gov Votes 2022 %,33.5%,33.5%,20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 2,Kay,Dem Share of Gov Votes 2026* %,37.4%,37.4%,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Kay,Change (pts),+3.89,+3.89,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Kay,Dem Share of Registration 2022 %,22.6%,22.6%,vr_2022-11-01_county.pdf,MATCH
+Table 2,Kay,Total Registered 2022 (Nov 1),"25,519","25,519",vr_2022-11-01_county.pdf,MATCH
+Table 2,Kay,Dem Share of Registration 2026 %,19.1%,19.1%,vr_2026-11-01_county.pdf,MATCH
+Table 2,Kay,Total Registered 2026 (Nov 1),"26,377","26,377",vr_2026-11-01_county.pdf,MATCH
+Table 1,Blaine,Dem Reg Share 2026 %,18.8%,18.8%,vr_2026-11-01_county.pdf,MATCH
+Table 1,Blaine,Dem Reg 2022 (Nov 1),"1,257","1,257",vr_2022-11-01_county.pdf,MATCH
+Table 1,Blaine,Dem Reg 2026 (Nov 1),"1,058","1,058",vr_2026-11-01_county.pdf,MATCH
+Table 1,Blaine,Reg Change #,-199,-199,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Blaine,Reg Change %,-15.8%,-15.8%,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Blaine,Dem Gov Votes 2022,886,886,20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Blaine,Dem Gov Votes 2026*,866,866,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Blaine,Vote Change #,-20,-20,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Blaine,Vote Change % (on 2022 base),-2.3%,-2.3%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Blaine,Total Gov Votes 2022,"2,980","2,980",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Blaine,Total Gov Votes 2026*,"2,580","2,580",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Blaine,Gov Votes Change #,-400,-400,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Blaine,Gov Votes Change %,-13.4%,-13.4%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Blaine,Dem Share of Gov Votes 2022 %,29.7%,29.7%,20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 2,Blaine,Dem Share of Gov Votes 2026* %,33.6%,33.6%,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Blaine,Change (pts),+3.83,+3.83,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Blaine,Dem Share of Registration 2022 %,23.4%,23.4%,vr_2022-11-01_county.pdf,MATCH
+Table 2,Blaine,Total Registered 2022 (Nov 1),"5,371","5,371",vr_2022-11-01_county.pdf,MATCH
+Table 2,Blaine,Dem Share of Registration 2026 %,18.8%,18.8%,vr_2026-11-01_county.pdf,MATCH
+Table 2,Blaine,Total Registered 2026 (Nov 1),"5,635","5,635",vr_2026-11-01_county.pdf,MATCH
+Table 1,Jackson,Dem Reg Share 2026 %,18.8%,18.8%,vr_2026-11-01_county.pdf,MATCH
+Table 1,Jackson,Dem Reg 2022 (Nov 1),"3,027","3,027",vr_2022-11-01_county.pdf,MATCH
+Table 1,Jackson,Dem Reg 2026 (Nov 1),"2,553","2,553",vr_2026-11-01_county.pdf,MATCH
+Table 1,Jackson,Reg Change #,-474,-474,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Jackson,Reg Change %,-15.7%,-15.7%,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Jackson,Dem Gov Votes 2022,"1,450","1,450",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Jackson,Dem Gov Votes 2026*,"1,475","1,475",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Jackson,Vote Change #,+25,+25,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Jackson,Vote Change % (on 2022 base),+1.7%,+1.7%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Jackson,Total Gov Votes 2022,"5,502","5,502",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Jackson,Total Gov Votes 2026*,"5,022","5,022",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Jackson,Gov Votes Change #,-480,-480,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Jackson,Gov Votes Change %,-8.7%,-8.7%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Jackson,Dem Share of Gov Votes 2022 %,26.4%,26.4%,20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 2,Jackson,Dem Share of Gov Votes 2026* %,29.4%,29.4%,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Jackson,Change (pts),+3.02,+3.02,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Jackson,Dem Share of Registration 2022 %,24.0%,24.0%,vr_2022-11-01_county.pdf,MATCH
+Table 2,Jackson,Total Registered 2022 (Nov 1),"12,625","12,625",vr_2022-11-01_county.pdf,MATCH
+Table 2,Jackson,Dem Share of Registration 2026 %,18.8%,18.8%,vr_2026-11-01_county.pdf,MATCH
+Table 2,Jackson,Total Registered 2026 (Nov 1),"13,615","13,615",vr_2026-11-01_county.pdf,MATCH
+Table 1,Pawnee,Dem Reg Share 2026 %,18.5%,18.5%,vr_2026-11-01_county.pdf,MATCH
+Table 1,Pawnee,Dem Reg 2022 (Nov 1),"2,435","2,435",vr_2022-11-01_county.pdf,MATCH
+Table 1,Pawnee,Dem Reg 2026 (Nov 1),"1,901","1,901",vr_2026-11-01_county.pdf,MATCH
+Table 1,Pawnee,Reg Change #,-534,-534,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Pawnee,Reg Change %,-21.9%,-21.9%,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Pawnee,Dem Gov Votes 2022,"1,554","1,554",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Pawnee,Dem Gov Votes 2026*,"1,545","1,545",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Pawnee,Vote Change #,-9,-9,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Pawnee,Vote Change % (on 2022 base),-0.6%,-0.6%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Pawnee,Total Gov Votes 2022,"5,047","5,047",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Pawnee,Total Gov Votes 2026*,"4,554","4,554",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Pawnee,Gov Votes Change #,-493,-493,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Pawnee,Gov Votes Change %,-9.8%,-9.8%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Pawnee,Dem Share of Gov Votes 2022 %,30.8%,30.8%,20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 2,Pawnee,Dem Share of Gov Votes 2026* %,33.9%,33.9%,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Pawnee,Change (pts),+3.14,+3.14,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Pawnee,Dem Share of Registration 2022 %,25.5%,25.5%,vr_2022-11-01_county.pdf,MATCH
+Table 2,Pawnee,Total Registered 2022 (Nov 1),"9,550","9,550",vr_2022-11-01_county.pdf,MATCH
+Table 2,Pawnee,Dem Share of Registration 2026 %,18.5%,18.5%,vr_2026-11-01_county.pdf,MATCH
+Table 2,Pawnee,Total Registered 2026 (Nov 1),"10,252","10,252",vr_2026-11-01_county.pdf,MATCH
+Table 1,Delaware,Dem Reg Share 2026 %,18.1%,18.1%,vr_2026-11-01_county.pdf,MATCH
+Table 1,Delaware,Dem Reg 2022 (Nov 1),"6,301","6,301",vr_2022-11-01_county.pdf,MATCH
+Table 1,Delaware,Dem Reg 2026 (Nov 1),"5,171","5,171",vr_2026-11-01_county.pdf,MATCH
+Table 1,Delaware,Reg Change #,"-1,130","-1,130",vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Delaware,Reg Change %,-17.9%,-17.9%,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Delaware,Dem Gov Votes 2022,"3,947","3,947",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Delaware,Dem Gov Votes 2026*,"3,351","3,351",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Delaware,Vote Change #,-596,-596,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Delaware,Vote Change % (on 2022 base),-15.1%,-15.1%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Delaware,Total Gov Votes 2022,"13,218","13,218",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Delaware,Total Gov Votes 2026*,"11,761","11,761",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Delaware,Gov Votes Change #,"-1,457","-1,457",20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Delaware,Gov Votes Change %,-11.0%,-11.0%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Delaware,Dem Share of Gov Votes 2022 %,29.9%,29.9%,20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 2,Delaware,Dem Share of Gov Votes 2026* %,28.5%,28.5%,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Delaware,Change (pts),-1.37,-1.37,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Delaware,Dem Share of Registration 2022 %,24.4%,24.4%,vr_2022-11-01_county.pdf,MATCH
+Table 2,Delaware,Total Registered 2022 (Nov 1),"25,875","25,875",vr_2022-11-01_county.pdf,MATCH
+Table 2,Delaware,Dem Share of Registration 2026 %,18.1%,18.1%,vr_2026-11-01_county.pdf,MATCH
+Table 2,Delaware,Total Registered 2026 (Nov 1),"28,613","28,613",vr_2026-11-01_county.pdf,MATCH
+Table 1,Creek,Dem Reg Share 2026 %,18.0%,18.0%,vr_2026-11-01_county.pdf,MATCH
+Table 1,Creek,Dem Reg 2022 (Nov 1),"9,561","9,561",vr_2022-11-01_county.pdf,MATCH
+Table 1,Creek,Dem Reg 2026 (Nov 1),"8,330","8,330",vr_2026-11-01_county.pdf,MATCH
+Table 1,Creek,Reg Change #,"-1,231","-1,231",vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Creek,Reg Change %,-12.9%,-12.9%,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Creek,Dem Gov Votes 2022,"6,816","6,816",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Creek,Dem Gov Votes 2026*,"6,957","6,957",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Creek,Vote Change #,+141,+141,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Creek,Vote Change % (on 2022 base),+2.1%,+2.1%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Creek,Total Gov Votes 2022,"22,350","22,350",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Creek,Total Gov Votes 2026*,"20,689","20,689",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Creek,Gov Votes Change #,"-1,661","-1,661",20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Creek,Gov Votes Change %,-7.4%,-7.4%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Creek,Dem Share of Gov Votes 2022 %,30.5%,30.5%,20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 2,Creek,Dem Share of Gov Votes 2026* %,33.6%,33.6%,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Creek,Change (pts),+3.13,+3.13,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Creek,Dem Share of Registration 2022 %,22.3%,22.3%,vr_2022-11-01_county.pdf,MATCH
+Table 2,Creek,Total Registered 2022 (Nov 1),"42,911","42,911",vr_2022-11-01_county.pdf,MATCH
+Table 2,Creek,Dem Share of Registration 2026 %,18.0%,18.0%,vr_2026-11-01_county.pdf,MATCH
+Table 2,Creek,Total Registered 2026 (Nov 1),"46,261","46,261",vr_2026-11-01_county.pdf,MATCH
+Table 1,Noble,Dem Reg Share 2026 %,18.0%,18.0%,vr_2026-11-01_county.pdf,MATCH
+Table 1,Noble,Dem Reg 2022 (Nov 1),"1,469","1,469",vr_2022-11-01_county.pdf,MATCH
+Table 1,Noble,Dem Reg 2026 (Nov 1),"1,269","1,269",vr_2026-11-01_county.pdf,MATCH
+Table 1,Noble,Reg Change #,-200,-200,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Noble,Reg Change %,-13.6%,-13.6%,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Noble,Dem Gov Votes 2022,"1,240","1,240",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Noble,Dem Gov Votes 2026*,"1,276","1,276",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Noble,Vote Change #,+36,+36,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Noble,Vote Change % (on 2022 base),+2.9%,+2.9%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Noble,Total Gov Votes 2022,"3,814","3,814",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Noble,Total Gov Votes 2026*,"3,580","3,580",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Noble,Gov Votes Change #,-234,-234,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Noble,Gov Votes Change %,-6.1%,-6.1%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Noble,Dem Share of Gov Votes 2022 %,32.5%,32.5%,20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 2,Noble,Dem Share of Gov Votes 2026* %,35.6%,35.6%,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Noble,Change (pts),+3.13,+3.13,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Noble,Dem Share of Registration 2022 %,21.7%,21.7%,vr_2022-11-01_county.pdf,MATCH
+Table 2,Noble,Total Registered 2022 (Nov 1),"6,755","6,755",vr_2022-11-01_county.pdf,MATCH
+Table 2,Noble,Dem Share of Registration 2026 %,18.0%,18.0%,vr_2026-11-01_county.pdf,MATCH
+Table 2,Noble,Total Registered 2026 (Nov 1),"7,058","7,058",vr_2026-11-01_county.pdf,MATCH
+Table 1,Nowata,Dem Reg Share 2026 %,17.6%,17.6%,vr_2026-11-01_county.pdf,MATCH
+Table 1,Nowata,Dem Reg 2022 (Nov 1),"1,574","1,574",vr_2022-11-01_county.pdf,MATCH
+Table 1,Nowata,Dem Reg 2026 (Nov 1),"1,198","1,198",vr_2026-11-01_county.pdf,MATCH
+Table 1,Nowata,Reg Change #,-376,-376,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Nowata,Reg Change %,-23.9%,-23.9%,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Nowata,Dem Gov Votes 2022,916,916,20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Nowata,Dem Gov Votes 2026*,862,862,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Nowata,Vote Change #,-54,-54,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Nowata,Vote Change % (on 2022 base),-5.9%,-5.9%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Nowata,Total Gov Votes 2022,"3,323","3,323",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Nowata,Total Gov Votes 2026*,"3,074","3,074",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Nowata,Gov Votes Change #,-249,-249,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Nowata,Gov Votes Change %,-7.5%,-7.5%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Nowata,Dem Share of Gov Votes 2022 %,27.6%,27.6%,20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 2,Nowata,Dem Share of Gov Votes 2026* %,28.0%,28.0%,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Nowata,Change (pts),+0.48,+0.48,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Nowata,Dem Share of Registration 2022 %,25.4%,25.4%,vr_2022-11-01_county.pdf,MATCH
+Table 2,Nowata,Total Registered 2022 (Nov 1),"6,201","6,201",vr_2022-11-01_county.pdf,MATCH
+Table 2,Nowata,Dem Share of Registration 2026 %,17.6%,17.6%,vr_2026-11-01_county.pdf,MATCH
+Table 2,Nowata,Total Registered 2026 (Nov 1),"6,817","6,817",vr_2026-11-01_county.pdf,MATCH
+Table 1,Washington,Dem Reg Share 2026 %,17.6%,17.6%,vr_2026-11-01_county.pdf,MATCH
+Table 1,Washington,Dem Reg 2022 (Nov 1),"6,769","6,769",vr_2022-11-01_county.pdf,MATCH
+Table 1,Washington,Dem Reg 2026 (Nov 1),"6,159","6,159",vr_2026-11-01_county.pdf,MATCH
+Table 1,Washington,Reg Change #,-610,-610,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Washington,Reg Change %,-9.0%,-9.0%,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Washington,Dem Gov Votes 2022,"5,578","5,578",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Washington,Dem Gov Votes 2026*,"5,701","5,701",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Washington,Vote Change #,+123,+123,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Washington,Vote Change % (on 2022 base),+2.2%,+2.2%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Washington,Total Gov Votes 2022,"17,151","17,151",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Washington,Total Gov Votes 2026*,"16,096","16,096",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Washington,Gov Votes Change #,"-1,055","-1,055",20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Washington,Gov Votes Change %,-6.2%,-6.2%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Washington,Dem Share of Gov Votes 2022 %,32.5%,32.5%,20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 2,Washington,Dem Share of Gov Votes 2026* %,35.4%,35.4%,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Washington,Change (pts),+2.90,+2.90,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Washington,Dem Share of Registration 2022 %,19.7%,19.7%,vr_2022-11-01_county.pdf,MATCH
+Table 2,Washington,Total Registered 2022 (Nov 1),"34,348","34,348",vr_2022-11-01_county.pdf,MATCH
+Table 2,Washington,Dem Share of Registration 2026 %,17.6%,17.6%,vr_2026-11-01_county.pdf,MATCH
+Table 2,Washington,Total Registered 2026 (Nov 1),"35,079","35,079",vr_2026-11-01_county.pdf,MATCH
+Table 1,Logan,Dem Reg Share 2026 %,17.5%,17.5%,vr_2026-11-01_county.pdf,MATCH
+Table 1,Logan,Dem Reg 2022 (Nov 1),"6,467","6,467",vr_2022-11-01_county.pdf,MATCH
+Table 1,Logan,Dem Reg 2026 (Nov 1),"6,367","6,367",vr_2026-11-01_county.pdf,MATCH
+Table 1,Logan,Reg Change #,-100,-100,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Logan,Reg Change %,-1.5%,-1.5%,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Logan,Dem Gov Votes 2022,"5,517","5,517",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Logan,Dem Gov Votes 2026*,"6,554","6,554",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Logan,Vote Change #,"+1,037","+1,037",20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Logan,Vote Change % (on 2022 base),+18.8%,+18.8%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Logan,Total Gov Votes 2022,"17,019","17,019",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Logan,Total Gov Votes 2026*,"17,886","17,886",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Logan,Gov Votes Change #,+867,+867,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Logan,Gov Votes Change %,+5.1%,+5.1%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Logan,Dem Share of Gov Votes 2022 %,32.4%,32.4%,20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 2,Logan,Dem Share of Gov Votes 2026* %,36.6%,36.6%,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Logan,Change (pts),+4.23,+4.23,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Logan,Dem Share of Registration 2022 %,20.8%,20.8%,vr_2022-11-01_county.pdf,MATCH
+Table 2,Logan,Total Registered 2022 (Nov 1),"31,120","31,120",vr_2022-11-01_county.pdf,MATCH
+Table 2,Logan,Dem Share of Registration 2026 %,17.5%,17.5%,vr_2026-11-01_county.pdf,MATCH
+Table 2,Logan,Total Registered 2026 (Nov 1),"36,287","36,287",vr_2026-11-01_county.pdf,MATCH
+Table 1,Washita,Dem Reg Share 2026 %,17.5%,17.5%,vr_2026-11-01_county.pdf,MATCH
+Table 1,Washita,Dem Reg 2022 (Nov 1),"1,739","1,739",vr_2022-11-01_county.pdf,MATCH
+Table 1,Washita,Dem Reg 2026 (Nov 1),"1,190","1,190",vr_2026-11-01_county.pdf,MATCH
+Table 1,Washita,Reg Change #,-549,-549,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Washita,Reg Change %,-31.6%,-31.6%,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Washita,Dem Gov Votes 2022,841,841,20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Washita,Dem Gov Votes 2026*,787,787,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Washita,Vote Change #,-54,-54,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Washita,Vote Change % (on 2022 base),-6.4%,-6.4%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Washita,Total Gov Votes 2022,"3,575","3,575",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Washita,Total Gov Votes 2026*,"2,975","2,975",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Washita,Gov Votes Change #,-600,-600,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Washita,Gov Votes Change %,-16.8%,-16.8%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Washita,Dem Share of Gov Votes 2022 %,23.5%,23.5%,20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 2,Washita,Dem Share of Gov Votes 2026* %,26.5%,26.5%,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Washita,Change (pts),+2.93,+2.93,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Washita,Dem Share of Registration 2022 %,25.8%,25.8%,vr_2022-11-01_county.pdf,MATCH
+Table 2,Washita,Total Registered 2022 (Nov 1),"6,745","6,745",vr_2022-11-01_county.pdf,MATCH
+Table 2,Washita,Dem Share of Registration 2026 %,17.5%,17.5%,vr_2026-11-01_county.pdf,MATCH
+Table 2,Washita,Total Registered 2026 (Nov 1),"6,789","6,789",vr_2026-11-01_county.pdf,MATCH
+Table 1,Rogers,Dem Reg Share 2026 %,17.2%,17.2%,vr_2026-11-01_county.pdf,MATCH
+Table 1,Rogers,Dem Reg 2022 (Nov 1),"12,782","12,782",vr_2022-11-01_county.pdf,MATCH
+Table 1,Rogers,Dem Reg 2026 (Nov 1),"11,652","11,652",vr_2026-11-01_county.pdf,MATCH
+Table 1,Rogers,Reg Change #,"-1,130","-1,130",vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Rogers,Reg Change %,-8.8%,-8.8%,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Rogers,Dem Gov Votes 2022,"10,527","10,527",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Rogers,Dem Gov Votes 2026*,"11,221","11,221",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Rogers,Vote Change #,+694,+694,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Rogers,Vote Change % (on 2022 base),+6.6%,+6.6%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Rogers,Total Gov Votes 2022,"33,933","33,933",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Rogers,Total Gov Votes 2026*,"32,198","32,198",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Rogers,Gov Votes Change #,"-1,735","-1,735",20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Rogers,Gov Votes Change %,-5.1%,-5.1%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Rogers,Dem Share of Gov Votes 2022 %,31.0%,31.0%,20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 2,Rogers,Dem Share of Gov Votes 2026* %,34.8%,34.8%,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Rogers,Change (pts),+3.83,+3.83,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Rogers,Dem Share of Registration 2022 %,20.7%,20.7%,vr_2022-11-01_county.pdf,MATCH
+Table 2,Rogers,Total Registered 2022 (Nov 1),"61,677","61,677",vr_2022-11-01_county.pdf,MATCH
+Table 2,Rogers,Dem Share of Registration 2026 %,17.2%,17.2%,vr_2026-11-01_county.pdf,MATCH
+Table 2,Rogers,Total Registered 2026 (Nov 1),"67,693","67,693",vr_2026-11-01_county.pdf,MATCH
+Table 1,Roger Mills,Dem Reg Share 2026 %,17.2%,17.2%,vr_2026-11-01_county.pdf,MATCH
+Table 1,Roger Mills,Dem Reg 2022 (Nov 1),609,609,vr_2022-11-01_county.pdf,MATCH
+Table 1,Roger Mills,Dem Reg 2026 (Nov 1),409,409,vr_2026-11-01_county.pdf,MATCH
+Table 1,Roger Mills,Reg Change #,-200,-200,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Roger Mills,Reg Change %,-32.8%,-32.8%,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Roger Mills,Dem Gov Votes 2022,191,191,20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Roger Mills,Dem Gov Votes 2026*,235,235,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Roger Mills,Vote Change #,+44,+44,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Roger Mills,Vote Change % (on 2022 base),+23.0%,+23.0%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Roger Mills,Total Gov Votes 2022,"1,320","1,320",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Roger Mills,Total Gov Votes 2026*,"1,100","1,100",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Roger Mills,Gov Votes Change #,-220,-220,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Roger Mills,Gov Votes Change %,-16.7%,-16.7%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Roger Mills,Dem Share of Gov Votes 2022 %,14.5%,14.5%,20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 2,Roger Mills,Dem Share of Gov Votes 2026* %,21.4%,21.4%,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Roger Mills,Change (pts),+6.89,+6.89,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Roger Mills,Dem Share of Registration 2022 %,25.6%,25.6%,vr_2022-11-01_county.pdf,MATCH
+Table 2,Roger Mills,Total Registered 2022 (Nov 1),"2,382","2,382",vr_2022-11-01_county.pdf,MATCH
+Table 2,Roger Mills,Dem Share of Registration 2026 %,17.2%,17.2%,vr_2026-11-01_county.pdf,MATCH
+Table 2,Roger Mills,Total Registered 2026 (Nov 1),"2,380","2,380",vr_2026-11-01_county.pdf,MATCH
+Table 1,Stephens,Dem Reg Share 2026 %,17.2%,17.2%,vr_2026-11-01_county.pdf,MATCH
+Table 1,Stephens,Dem Reg 2022 (Nov 1),"6,308","6,308",vr_2022-11-01_county.pdf,MATCH
+Table 1,Stephens,Dem Reg 2026 (Nov 1),"4,842","4,842",vr_2026-11-01_county.pdf,MATCH
+Table 1,Stephens,Reg Change #,"-1,466","-1,466",vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Stephens,Reg Change %,-23.2%,-23.2%,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Stephens,Dem Gov Votes 2022,"3,580","3,580",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Stephens,Dem Gov Votes 2026*,"3,353","3,353",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Stephens,Vote Change #,-227,-227,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Stephens,Vote Change % (on 2022 base),-6.3%,-6.3%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Stephens,Total Gov Votes 2022,"13,116","13,116",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Stephens,Total Gov Votes 2026*,"12,060","12,060",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Stephens,Gov Votes Change #,"-1,056","-1,056",20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Stephens,Gov Votes Change %,-8.1%,-8.1%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Stephens,Dem Share of Gov Votes 2022 %,27.3%,27.3%,20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 2,Stephens,Dem Share of Gov Votes 2026* %,27.8%,27.8%,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Stephens,Change (pts),+0.51,+0.51,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Stephens,Dem Share of Registration 2022 %,22.9%,22.9%,vr_2022-11-01_county.pdf,MATCH
+Table 2,Stephens,Total Registered 2022 (Nov 1),"27,523","27,523",vr_2022-11-01_county.pdf,MATCH
+Table 2,Stephens,Dem Share of Registration 2026 %,17.2%,17.2%,vr_2026-11-01_county.pdf,MATCH
+Table 2,Stephens,Total Registered 2026 (Nov 1),"28,204","28,204",vr_2026-11-01_county.pdf,MATCH
+Table 1,Texas,Dem Reg Share 2026 %,16.8%,16.8%,vr_2026-11-01_county.pdf,MATCH
+Table 1,Texas,Dem Reg 2022 (Nov 1),"1,626","1,626",vr_2022-11-01_county.pdf,MATCH
+Table 1,Texas,Dem Reg 2026 (Nov 1),"1,532","1,532",vr_2026-11-01_county.pdf,MATCH
+Table 1,Texas,Reg Change #,-94,-94,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Texas,Reg Change %,-5.8%,-5.8%,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Texas,Dem Gov Votes 2022,712,712,20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Texas,Dem Gov Votes 2026*,"1,148","1,148",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Texas,Vote Change #,+436,+436,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Texas,Vote Change % (on 2022 base),+61.2%,+61.2%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Texas,Total Gov Votes 2022,"3,658","3,658",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Texas,Total Gov Votes 2026*,"3,641","3,641",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Texas,Gov Votes Change #,-17,-17,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Texas,Gov Votes Change %,-0.5%,-0.5%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Texas,Dem Share of Gov Votes 2022 %,19.5%,19.5%,20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 2,Texas,Dem Share of Gov Votes 2026* %,31.5%,31.5%,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Texas,Change (pts),+12.07,+12.07,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Texas,Dem Share of Registration 2022 %,18.3%,18.3%,vr_2022-11-01_county.pdf,MATCH
+Table 2,Texas,Total Registered 2022 (Nov 1),"8,893","8,893",vr_2022-11-01_county.pdf,MATCH
+Table 2,Texas,Dem Share of Registration 2026 %,16.8%,16.8%,vr_2026-11-01_county.pdf,MATCH
+Table 2,Texas,Total Registered 2026 (Nov 1),"9,140","9,140",vr_2026-11-01_county.pdf,MATCH
+Table 1,Grady,Dem Reg Share 2026 %,16.5%,16.5%,vr_2026-11-01_county.pdf,MATCH
+Table 1,Grady,Dem Reg 2022 (Nov 1),"7,398","7,398",vr_2022-11-01_county.pdf,MATCH
+Table 1,Grady,Dem Reg 2026 (Nov 1),"6,189","6,189",vr_2026-11-01_county.pdf,MATCH
+Table 1,Grady,Reg Change #,"-1,209","-1,209",vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Grady,Reg Change %,-16.3%,-16.3%,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Grady,Dem Gov Votes 2022,"5,163","5,163",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Grady,Dem Gov Votes 2026*,"5,472","5,472",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Grady,Vote Change #,+309,+309,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Grady,Vote Change % (on 2022 base),+6.0%,+6.0%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Grady,Total Gov Votes 2022,"17,825","17,825",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Grady,Total Gov Votes 2026*,"16,907","16,907",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Grady,Gov Votes Change #,-918,-918,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Grady,Gov Votes Change %,-5.2%,-5.2%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Grady,Dem Share of Gov Votes 2022 %,29.0%,29.0%,20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 2,Grady,Dem Share of Gov Votes 2026* %,32.4%,32.4%,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Grady,Change (pts),+3.40,+3.40,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Grady,Dem Share of Registration 2022 %,21.4%,21.4%,vr_2022-11-01_county.pdf,MATCH
+Table 2,Grady,Total Registered 2022 (Nov 1),"34,501","34,501",vr_2022-11-01_county.pdf,MATCH
+Table 2,Grady,Dem Share of Registration 2026 %,16.5%,16.5%,vr_2026-11-01_county.pdf,MATCH
+Table 2,Grady,Total Registered 2026 (Nov 1),"37,467","37,467",vr_2026-11-01_county.pdf,MATCH
+Table 1,Garfield,Dem Reg Share 2026 %,16.5%,16.5%,vr_2026-11-01_county.pdf,MATCH
+Table 1,Garfield,Dem Reg 2022 (Nov 1),"6,223","6,223",vr_2022-11-01_county.pdf,MATCH
+Table 1,Garfield,Dem Reg 2026 (Nov 1),"5,700","5,700",vr_2026-11-01_county.pdf,MATCH
+Table 1,Garfield,Reg Change #,-523,-523,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Garfield,Reg Change %,-8.4%,-8.4%,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Garfield,Dem Gov Votes 2022,"4,960","4,960",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Garfield,Dem Gov Votes 2026*,"5,271","5,271",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Garfield,Vote Change #,+311,+311,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Garfield,Vote Change % (on 2022 base),+6.3%,+6.3%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Garfield,Total Gov Votes 2022,"16,214","16,214",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Garfield,Total Gov Votes 2026*,"14,818","14,818",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Garfield,Gov Votes Change #,"-1,396","-1,396",20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Garfield,Gov Votes Change %,-8.6%,-8.6%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Garfield,Dem Share of Gov Votes 2022 %,30.6%,30.6%,20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 2,Garfield,Dem Share of Gov Votes 2026* %,35.6%,35.6%,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Garfield,Change (pts),+4.98,+4.98,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Garfield,Dem Share of Registration 2022 %,19.0%,19.0%,vr_2022-11-01_county.pdf,MATCH
+Table 2,Garfield,Total Registered 2022 (Nov 1),"32,837","32,837",vr_2022-11-01_county.pdf,MATCH
+Table 2,Garfield,Dem Share of Registration 2026 %,16.5%,16.5%,vr_2026-11-01_county.pdf,MATCH
+Table 2,Garfield,Total Registered 2026 (Nov 1),"34,528","34,528",vr_2026-11-01_county.pdf,MATCH
+Table 1,Lincoln,Dem Reg Share 2026 %,16.2%,16.2%,vr_2026-11-01_county.pdf,MATCH
+Table 1,Lincoln,Dem Reg 2022 (Nov 1),"4,524","4,524",vr_2022-11-01_county.pdf,MATCH
+Table 1,Lincoln,Dem Reg 2026 (Nov 1),"3,615","3,615",vr_2026-11-01_county.pdf,MATCH
+Table 1,Lincoln,Reg Change #,-909,-909,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Lincoln,Reg Change %,-20.1%,-20.1%,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Lincoln,Dem Gov Votes 2022,"3,131","3,131",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Lincoln,Dem Gov Votes 2026*,"3,118","3,118",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Lincoln,Vote Change #,-13,-13,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Lincoln,Vote Change % (on 2022 base),-0.4%,-0.4%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Lincoln,Total Gov Votes 2022,"11,098","11,098",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Lincoln,Total Gov Votes 2026*,"10,358","10,358",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Lincoln,Gov Votes Change #,-740,-740,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Lincoln,Gov Votes Change %,-6.7%,-6.7%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Lincoln,Dem Share of Gov Votes 2022 %,28.2%,28.2%,20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 2,Lincoln,Dem Share of Gov Votes 2026* %,30.1%,30.1%,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Lincoln,Change (pts),+1.89,+1.89,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Lincoln,Dem Share of Registration 2022 %,21.9%,21.9%,vr_2022-11-01_county.pdf,MATCH
+Table 2,Lincoln,Total Registered 2022 (Nov 1),"20,670","20,670",vr_2022-11-01_county.pdf,MATCH
+Table 2,Lincoln,Dem Share of Registration 2026 %,16.2%,16.2%,vr_2026-11-01_county.pdf,MATCH
+Table 2,Lincoln,Total Registered 2026 (Nov 1),"22,316","22,316",vr_2026-11-01_county.pdf,MATCH
+Table 1,McClain,Dem Reg Share 2026 %,15.9%,15.9%,vr_2026-11-01_county.pdf,MATCH
+Table 1,McClain,Dem Reg 2022 (Nov 1),"5,545","5,545",vr_2022-11-01_county.pdf,MATCH
+Table 1,McClain,Dem Reg 2026 (Nov 1),"4,953","4,953",vr_2026-11-01_county.pdf,MATCH
+Table 1,McClain,Reg Change #,-592,-592,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,McClain,Reg Change %,-10.7%,-10.7%,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,McClain,Dem Gov Votes 2022,"4,458","4,458",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,McClain,Dem Gov Votes 2026*,"4,767","4,767",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,McClain,Vote Change #,+309,+309,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,McClain,Vote Change % (on 2022 base),+6.9%,+6.9%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,McClain,Total Gov Votes 2022,"15,046","15,046",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,McClain,Total Gov Votes 2026*,"14,886","14,886",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,McClain,Gov Votes Change #,-160,-160,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,McClain,Gov Votes Change %,-1.1%,-1.1%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,McClain,Dem Share of Gov Votes 2022 %,29.6%,29.6%,20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 2,McClain,Dem Share of Gov Votes 2026* %,32.0%,32.0%,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,McClain,Change (pts),+2.39,+2.39,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,McClain,Dem Share of Registration 2022 %,20.4%,20.4%,vr_2022-11-01_county.pdf,MATCH
+Table 2,McClain,Total Registered 2022 (Nov 1),"27,232","27,232",vr_2022-11-01_county.pdf,MATCH
+Table 2,McClain,Dem Share of Registration 2026 %,15.9%,15.9%,vr_2026-11-01_county.pdf,MATCH
+Table 2,McClain,Total Registered 2026 (Nov 1),"31,197","31,197",vr_2026-11-01_county.pdf,MATCH
+Table 1,Beckham,Dem Reg Share 2026 %,15.8%,15.8%,vr_2026-11-01_county.pdf,MATCH
+Table 1,Beckham,Dem Reg 2022 (Nov 1),"2,476","2,476",vr_2022-11-01_county.pdf,MATCH
+Table 1,Beckham,Dem Reg 2026 (Nov 1),"1,875","1,875",vr_2026-11-01_county.pdf,MATCH
+Table 1,Beckham,Reg Change #,-601,-601,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Beckham,Reg Change %,-24.3%,-24.3%,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Beckham,Dem Gov Votes 2022,"1,240","1,240",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Beckham,Dem Gov Votes 2026*,"1,288","1,288",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Beckham,Vote Change #,+48,+48,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Beckham,Vote Change % (on 2022 base),+3.9%,+3.9%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Beckham,Total Gov Votes 2022,"5,480","5,480",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Beckham,Total Gov Votes 2026*,"4,785","4,785",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Beckham,Gov Votes Change #,-695,-695,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Beckham,Gov Votes Change %,-12.7%,-12.7%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Beckham,Dem Share of Gov Votes 2022 %,22.6%,22.6%,20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 2,Beckham,Dem Share of Gov Votes 2026* %,26.9%,26.9%,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Beckham,Change (pts),+4.29,+4.29,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Beckham,Dem Share of Registration 2022 %,21.0%,21.0%,vr_2022-11-01_county.pdf,MATCH
+Table 2,Beckham,Total Registered 2022 (Nov 1),"11,786","11,786",vr_2022-11-01_county.pdf,MATCH
+Table 2,Beckham,Dem Share of Registration 2026 %,15.8%,15.8%,vr_2026-11-01_county.pdf,MATCH
+Table 2,Beckham,Total Registered 2026 (Nov 1),"11,902","11,902",vr_2026-11-01_county.pdf,MATCH
+Table 1,Woods,Dem Reg Share 2026 %,14.5%,14.5%,vr_2026-11-01_county.pdf,MATCH
+Table 1,Woods,Dem Reg 2022 (Nov 1),893,893,vr_2022-11-01_county.pdf,MATCH
+Table 1,Woods,Dem Reg 2026 (Nov 1),734,734,vr_2026-11-01_county.pdf,MATCH
+Table 1,Woods,Reg Change #,-159,-159,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Woods,Reg Change %,-17.8%,-17.8%,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Woods,Dem Gov Votes 2022,804,804,20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Woods,Dem Gov Votes 2026*,833,833,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Woods,Vote Change #,+29,+29,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Woods,Vote Change % (on 2022 base),+3.6%,+3.6%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Woods,Total Gov Votes 2022,"2,702","2,702",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Woods,Total Gov Votes 2026*,"2,505","2,505",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Woods,Gov Votes Change #,-197,-197,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Woods,Gov Votes Change %,-7.3%,-7.3%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Woods,Dem Share of Gov Votes 2022 %,29.8%,29.8%,20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 2,Woods,Dem Share of Gov Votes 2026* %,33.3%,33.3%,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Woods,Change (pts),+3.50,+3.50,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Woods,Dem Share of Registration 2022 %,18.0%,18.0%,vr_2022-11-01_county.pdf,MATCH
+Table 2,Woods,Total Registered 2022 (Nov 1),"4,957","4,957",vr_2022-11-01_county.pdf,MATCH
+Table 2,Woods,Dem Share of Registration 2026 %,14.5%,14.5%,vr_2026-11-01_county.pdf,MATCH
+Table 2,Woods,Total Registered 2026 (Nov 1),"5,078","5,078",vr_2026-11-01_county.pdf,MATCH
+Table 1,Dewey,Dem Reg Share 2026 %,13.0%,13.0%,vr_2026-11-01_county.pdf,MATCH
+Table 1,Dewey,Dem Reg 2022 (Nov 1),528,528,vr_2022-11-01_county.pdf,MATCH
+Table 1,Dewey,Dem Reg 2026 (Nov 1),396,396,vr_2026-11-01_county.pdf,MATCH
+Table 1,Dewey,Reg Change #,-132,-132,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Dewey,Reg Change %,-25.0%,-25.0%,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Dewey,Dem Gov Votes 2022,321,321,20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Dewey,Dem Gov Votes 2026*,307,307,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Dewey,Vote Change #,-14,-14,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Dewey,Vote Change % (on 2022 base),-4.4%,-4.4%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Dewey,Total Gov Votes 2022,"1,767","1,767",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Dewey,Total Gov Votes 2026*,"1,425","1,425",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Dewey,Gov Votes Change #,-342,-342,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Dewey,Gov Votes Change %,-19.4%,-19.4%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Dewey,Dem Share of Gov Votes 2022 %,18.2%,18.2%,20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 2,Dewey,Dem Share of Gov Votes 2026* %,21.5%,21.5%,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Dewey,Change (pts),+3.38,+3.38,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Dewey,Dem Share of Registration 2022 %,17.2%,17.2%,vr_2022-11-01_county.pdf,MATCH
+Table 2,Dewey,Total Registered 2022 (Nov 1),"3,068","3,068",vr_2022-11-01_county.pdf,MATCH
+Table 2,Dewey,Dem Share of Registration 2026 %,13.0%,13.0%,vr_2026-11-01_county.pdf,MATCH
+Table 2,Dewey,Total Registered 2026 (Nov 1),"3,057","3,057",vr_2026-11-01_county.pdf,MATCH
+Table 1,Kingfisher,Dem Reg Share 2026 %,12.8%,12.8%,vr_2026-11-01_county.pdf,MATCH
+Table 1,Kingfisher,Dem Reg 2022 (Nov 1),"1,390","1,390",vr_2022-11-01_county.pdf,MATCH
+Table 1,Kingfisher,Dem Reg 2026 (Nov 1),"1,222","1,222",vr_2026-11-01_county.pdf,MATCH
+Table 1,Kingfisher,Reg Change #,-168,-168,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Kingfisher,Reg Change %,-12.1%,-12.1%,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Kingfisher,Dem Gov Votes 2022,"1,121","1,121",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Kingfisher,Dem Gov Votes 2026*,"1,259","1,259",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Kingfisher,Vote Change #,+138,+138,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Kingfisher,Vote Change % (on 2022 base),+12.3%,+12.3%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Kingfisher,Total Gov Votes 2022,"4,883","4,883",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Kingfisher,Total Gov Votes 2026*,"4,465","4,465",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Kingfisher,Gov Votes Change #,-418,-418,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Kingfisher,Gov Votes Change %,-8.6%,-8.6%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Kingfisher,Dem Share of Gov Votes 2022 %,23.0%,23.0%,20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 2,Kingfisher,Dem Share of Gov Votes 2026* %,28.2%,28.2%,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Kingfisher,Change (pts),+5.24,+5.24,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Kingfisher,Dem Share of Registration 2022 %,16.0%,16.0%,vr_2022-11-01_county.pdf,MATCH
+Table 2,Kingfisher,Total Registered 2022 (Nov 1),"8,698","8,698",vr_2022-11-01_county.pdf,MATCH
+Table 2,Kingfisher,Dem Share of Registration 2026 %,12.8%,12.8%,vr_2026-11-01_county.pdf,MATCH
+Table 2,Kingfisher,Total Registered 2026 (Nov 1),"9,555","9,555",vr_2026-11-01_county.pdf,MATCH
+Table 1,Woodward,Dem Reg Share 2026 %,12.5%,12.5%,vr_2026-11-01_county.pdf,MATCH
+Table 1,Woodward,Dem Reg 2022 (Nov 1),"1,705","1,705",vr_2022-11-01_county.pdf,MATCH
+Table 1,Woodward,Dem Reg 2026 (Nov 1),"1,394","1,394",vr_2026-11-01_county.pdf,MATCH
+Table 1,Woodward,Reg Change #,-311,-311,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Woodward,Reg Change %,-18.2%,-18.2%,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Woodward,Dem Gov Votes 2022,"1,225","1,225",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Woodward,Dem Gov Votes 2026*,"1,292","1,292",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Woodward,Vote Change #,+67,+67,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Woodward,Vote Change % (on 2022 base),+5.5%,+5.5%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Woodward,Total Gov Votes 2022,"5,377","5,377",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Woodward,Total Gov Votes 2026*,"4,740","4,740",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Woodward,Gov Votes Change #,-637,-637,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Woodward,Gov Votes Change %,-11.8%,-11.8%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Woodward,Dem Share of Gov Votes 2022 %,22.8%,22.8%,20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 2,Woodward,Dem Share of Gov Votes 2026* %,27.3%,27.3%,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Woodward,Change (pts),+4.48,+4.48,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Woodward,Dem Share of Registration 2022 %,15.2%,15.2%,vr_2022-11-01_county.pdf,MATCH
+Table 2,Woodward,Total Registered 2022 (Nov 1),"11,189","11,189",vr_2022-11-01_county.pdf,MATCH
+Table 2,Woodward,Dem Share of Registration 2026 %,12.5%,12.5%,vr_2026-11-01_county.pdf,MATCH
+Table 2,Woodward,Total Registered 2026 (Nov 1),"11,184","11,184",vr_2026-11-01_county.pdf,MATCH
+Table 1,Grant,Dem Reg Share 2026 %,12.1%,12.1%,vr_2026-11-01_county.pdf,MATCH
+Table 1,Grant,Dem Reg 2022 (Nov 1),452,452,vr_2022-11-01_county.pdf,MATCH
+Table 1,Grant,Dem Reg 2026 (Nov 1),354,354,vr_2026-11-01_county.pdf,MATCH
+Table 1,Grant,Reg Change #,-98,-98,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Grant,Reg Change %,-21.7%,-21.7%,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Grant,Dem Gov Votes 2022,375,375,20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Grant,Dem Gov Votes 2026*,403,403,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Grant,Vote Change #,+28,+28,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Grant,Vote Change % (on 2022 base),+7.5%,+7.5%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Grant,Total Gov Votes 2022,"1,599","1,599",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Grant,Total Gov Votes 2026*,"1,413","1,413",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Grant,Gov Votes Change #,-186,-186,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Grant,Gov Votes Change %,-11.6%,-11.6%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Grant,Dem Share of Gov Votes 2022 %,23.5%,23.5%,20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 2,Grant,Dem Share of Gov Votes 2026* %,28.5%,28.5%,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Grant,Change (pts),+5.07,+5.07,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Grant,Dem Share of Registration 2022 %,15.5%,15.5%,vr_2022-11-01_county.pdf,MATCH
+Table 2,Grant,Total Registered 2022 (Nov 1),"2,913","2,913",vr_2022-11-01_county.pdf,MATCH
+Table 2,Grant,Dem Share of Registration 2026 %,12.1%,12.1%,vr_2026-11-01_county.pdf,MATCH
+Table 2,Grant,Total Registered 2026 (Nov 1),"2,922","2,922",vr_2026-11-01_county.pdf,MATCH
+Table 1,Harper,Dem Reg Share 2026 %,11.8%,11.8%,vr_2026-11-01_county.pdf,MATCH
+Table 1,Harper,Dem Reg 2022 (Nov 1),283,283,vr_2022-11-01_county.pdf,MATCH
+Table 1,Harper,Dem Reg 2026 (Nov 1),226,226,vr_2026-11-01_county.pdf,MATCH
+Table 1,Harper,Reg Change #,-57,-57,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Harper,Reg Change %,-20.1%,-20.1%,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Harper,Dem Gov Votes 2022,317,317,20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Harper,Dem Gov Votes 2026*,258,258,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Harper,Vote Change #,-59,-59,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Harper,Vote Change % (on 2022 base),-18.6%,-18.6%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Harper,Total Gov Votes 2022,"1,168","1,168",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Harper,Total Gov Votes 2026*,"1,034","1,034",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Harper,Gov Votes Change #,-134,-134,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Harper,Gov Votes Change %,-11.5%,-11.5%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Harper,Dem Share of Gov Votes 2022 %,27.1%,27.1%,20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 2,Harper,Dem Share of Gov Votes 2026* %,25.0%,25.0%,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Harper,Change (pts),-2.19,-2.19,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Harper,Dem Share of Registration 2022 %,14.6%,14.6%,vr_2022-11-01_county.pdf,MATCH
+Table 2,Harper,Total Registered 2022 (Nov 1),"1,944","1,944",vr_2022-11-01_county.pdf,MATCH
+Table 2,Harper,Dem Share of Registration 2026 %,11.8%,11.8%,vr_2026-11-01_county.pdf,MATCH
+Table 2,Harper,Total Registered 2026 (Nov 1),"1,911","1,911",vr_2026-11-01_county.pdf,MATCH
+Table 1,Cimarron,Dem Reg Share 2026 %,11.0%,11.0%,vr_2026-11-01_county.pdf,MATCH
+Table 1,Cimarron,Dem Reg 2022 (Nov 1),201,201,vr_2022-11-01_county.pdf,MATCH
+Table 1,Cimarron,Dem Reg 2026 (Nov 1),148,148,vr_2026-11-01_county.pdf,MATCH
+Table 1,Cimarron,Reg Change #,-53,-53,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Cimarron,Reg Change %,-26.4%,-26.4%,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Cimarron,Dem Gov Votes 2022,62,62,20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Cimarron,Dem Gov Votes 2026*,83,83,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Cimarron,Vote Change #,+21,+21,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Cimarron,Vote Change % (on 2022 base),+33.9%,+33.9%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Cimarron,Total Gov Votes 2022,733,733,20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Cimarron,Total Gov Votes 2026*,641,641,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Cimarron,Gov Votes Change #,-92,-92,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Cimarron,Gov Votes Change %,-12.6%,-12.6%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Cimarron,Dem Share of Gov Votes 2022 %,8.5%,8.5%,20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 2,Cimarron,Dem Share of Gov Votes 2026* %,12.9%,12.9%,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Cimarron,Change (pts),+4.49,+4.49,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Cimarron,Dem Share of Registration 2022 %,14.0%,14.0%,vr_2022-11-01_county.pdf,MATCH
+Table 2,Cimarron,Total Registered 2022 (Nov 1),"1,435","1,435",vr_2022-11-01_county.pdf,MATCH
+Table 2,Cimarron,Dem Share of Registration 2026 %,11.0%,11.0%,vr_2026-11-01_county.pdf,MATCH
+Table 2,Cimarron,Total Registered 2026 (Nov 1),"1,349","1,349",vr_2026-11-01_county.pdf,MATCH
+Table 1,Ellis,Dem Reg Share 2026 %,10.8%,10.8%,vr_2026-11-01_county.pdf,MATCH
+Table 1,Ellis,Dem Reg 2022 (Nov 1),347,347,vr_2022-11-01_county.pdf,MATCH
+Table 1,Ellis,Dem Reg 2026 (Nov 1),275,275,vr_2026-11-01_county.pdf,MATCH
+Table 1,Ellis,Reg Change #,-72,-72,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Ellis,Reg Change %,-20.7%,-20.7%,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Ellis,Dem Gov Votes 2022,281,281,20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Ellis,Dem Gov Votes 2026*,292,292,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Ellis,Vote Change #,+11,+11,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Ellis,Vote Change % (on 2022 base),+3.9%,+3.9%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Ellis,Total Gov Votes 2022,"1,486","1,486",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Ellis,Total Gov Votes 2026*,"1,259","1,259",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Ellis,Gov Votes Change #,-227,-227,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Ellis,Gov Votes Change %,-15.3%,-15.3%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Ellis,Dem Share of Gov Votes 2022 %,18.9%,18.9%,20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 2,Ellis,Dem Share of Gov Votes 2026* %,23.2%,23.2%,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Ellis,Change (pts),+4.28,+4.28,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Ellis,Dem Share of Registration 2022 %,13.7%,13.7%,vr_2022-11-01_county.pdf,MATCH
+Table 2,Ellis,Total Registered 2022 (Nov 1),"2,531","2,531",vr_2022-11-01_county.pdf,MATCH
+Table 2,Ellis,Dem Share of Registration 2026 %,10.8%,10.8%,vr_2026-11-01_county.pdf,MATCH
+Table 2,Ellis,Total Registered 2026 (Nov 1),"2,537","2,537",vr_2026-11-01_county.pdf,MATCH
+Table 1,Alfalfa,Dem Reg Share 2026 %,10.3%,10.3%,vr_2026-11-01_county.pdf,MATCH
+Table 1,Alfalfa,Dem Reg 2022 (Nov 1),387,387,vr_2022-11-01_county.pdf,MATCH
+Table 1,Alfalfa,Dem Reg 2026 (Nov 1),312,312,vr_2026-11-01_county.pdf,MATCH
+Table 1,Alfalfa,Reg Change #,-75,-75,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Alfalfa,Reg Change %,-19.4%,-19.4%,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Alfalfa,Dem Gov Votes 2022,385,385,20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Alfalfa,Dem Gov Votes 2026*,420,420,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Alfalfa,Vote Change #,+35,+35,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Alfalfa,Vote Change % (on 2022 base),+9.1%,+9.1%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Alfalfa,Total Gov Votes 2022,"1,735","1,735",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Alfalfa,Total Gov Votes 2026*,"1,577","1,577",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Alfalfa,Gov Votes Change #,-158,-158,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Alfalfa,Gov Votes Change %,-9.1%,-9.1%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Alfalfa,Dem Share of Gov Votes 2022 %,22.2%,22.2%,20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 2,Alfalfa,Dem Share of Gov Votes 2026* %,26.6%,26.6%,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Alfalfa,Change (pts),+4.44,+4.44,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Alfalfa,Dem Share of Registration 2022 %,13.0%,13.0%,vr_2022-11-01_county.pdf,MATCH
+Table 2,Alfalfa,Total Registered 2022 (Nov 1),"2,987","2,987",vr_2022-11-01_county.pdf,MATCH
+Table 2,Alfalfa,Dem Share of Registration 2026 %,10.3%,10.3%,vr_2026-11-01_county.pdf,MATCH
+Table 2,Alfalfa,Total Registered 2026 (Nov 1),"3,028","3,028",vr_2026-11-01_county.pdf,MATCH
+Table 1,Beaver,Dem Reg Share 2026 %,9.3%,9.3%,vr_2026-11-01_county.pdf,MATCH
+Table 1,Beaver,Dem Reg 2022 (Nov 1),342,342,vr_2022-11-01_county.pdf,MATCH
+Table 1,Beaver,Dem Reg 2026 (Nov 1),297,297,vr_2026-11-01_county.pdf,MATCH
+Table 1,Beaver,Reg Change #,-45,-45,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Beaver,Reg Change %,-13.2%,-13.2%,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Beaver,Dem Gov Votes 2022,249,249,20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Beaver,Dem Gov Votes 2026*,267,267,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Beaver,Vote Change #,+18,+18,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Beaver,Vote Change % (on 2022 base),+7.2%,+7.2%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Beaver,Total Gov Votes 2022,"1,698","1,698",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Beaver,Total Gov Votes 2026*,"1,436","1,436",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Beaver,Gov Votes Change #,-262,-262,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Beaver,Gov Votes Change %,-15.4%,-15.4%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Beaver,Dem Share of Gov Votes 2022 %,14.7%,14.7%,20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 2,Beaver,Dem Share of Gov Votes 2026* %,18.6%,18.6%,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Beaver,Change (pts),+3.93,+3.93,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Beaver,Dem Share of Registration 2022 %,11.1%,11.1%,vr_2022-11-01_county.pdf,MATCH
+Table 2,Beaver,Total Registered 2022 (Nov 1),"3,077","3,077",vr_2022-11-01_county.pdf,MATCH
+Table 2,Beaver,Dem Share of Registration 2026 %,9.3%,9.3%,vr_2026-11-01_county.pdf,MATCH
+Table 2,Beaver,Total Registered 2026 (Nov 1),"3,199","3,199",vr_2026-11-01_county.pdf,MATCH
+Table 1,Major,Dem Reg Share 2026 %,8.0%,8.0%,vr_2026-11-01_county.pdf,MATCH
+Table 1,Major,Dem Reg 2022 (Nov 1),444,444,vr_2022-11-01_county.pdf,MATCH
+Table 1,Major,Dem Reg 2026 (Nov 1),374,374,vr_2026-11-01_county.pdf,MATCH
+Table 1,Major,Reg Change #,-70,-70,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Major,Reg Change %,-15.8%,-15.8%,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Major,Dem Gov Votes 2022,470,470,20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Major,Dem Gov Votes 2026*,472,472,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Major,Vote Change #,+2,+2,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Major,Vote Change % (on 2022 base),+0.4%,+0.4%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Major,Total Gov Votes 2022,"2,691","2,691",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Major,Total Gov Votes 2026*,"2,360","2,360",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Major,Gov Votes Change #,-331,-331,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Major,Gov Votes Change %,-12.3%,-12.3%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Major,Dem Share of Gov Votes 2022 %,17.5%,17.5%,20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 2,Major,Dem Share of Gov Votes 2026* %,20.0%,20.0%,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Major,Change (pts),+2.53,+2.53,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Major,Dem Share of Registration 2022 %,10.0%,10.0%,vr_2022-11-01_county.pdf,MATCH
+Table 2,Major,Total Registered 2022 (Nov 1),"4,461","4,461",vr_2022-11-01_county.pdf,MATCH
+Table 2,Major,Dem Share of Registration 2026 %,8.0%,8.0%,vr_2026-11-01_county.pdf,MATCH
+Table 2,Major,Total Registered 2026 (Nov 1),"4,676","4,676",vr_2026-11-01_county.pdf,MATCH
+Table 1,Statewide total,Dem Reg Share 2026 %,25.6%,25.6%,vr_2026-11-01_county.pdf,MATCH
+Table 1,Statewide total,Dem Reg 2022 (Nov 1),"687,545","687,545",vr_2022-11-01_county.pdf,MATCH
+Table 1,Statewide total,Dem Reg 2026 (Nov 1),"627,581","627,581",vr_2026-11-01_county.pdf,MATCH
+Table 1,Statewide total,Reg Change #,"-59,964","-59,964",vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Statewide total,Reg Change %,-8.7%,-8.7%,vr_2022-11-01_county.pdf; vr_2026-11-01_county.pdf,MATCH
+Table 1,Statewide total,Dem Gov Votes 2022,"481,904","481,904",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Statewide total,Dem Gov Votes 2026*,"514,776","514,776",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Statewide total,Vote Change #,"+32,872","+32,872",20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Statewide total,Vote Change % (on 2022 base),+6.8%,+6.8%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Statewide total,Total Gov Votes 2022,"1,153,284","1,153,284",20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 1,Statewide total,Total Gov Votes 2026*,"1,120,930","1,120,930",20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Statewide total,Gov Votes Change #,"-32,354","-32,354",20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 1,Statewide total,Gov Votes Change %,-2.8%,-2.8%,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Statewide total,Dem Share of Gov Votes 2022 %,41.8%,41.8%,20221108_CLCSV.zip:20221108_CountyResults.csv,MATCH
+Table 2,Statewide total,Dem Share of Gov Votes 2026* %,45.9%,45.9%,20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Statewide total,Change (pts),+4.14,+4.14,20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Table 2,Statewide total,Dem Share of Registration 2022 %,29.9%,29.9%,vr_2022-11-01_county.pdf,MATCH
+Table 2,Statewide total,Total Registered 2022 (Nov 1),"2,295,906","2,295,906",vr_2022-11-01_county.pdf,MATCH
+Table 2,Statewide total,Dem Share of Registration 2026 %,25.6%,25.6%,vr_2026-11-01_county.pdf,MATCH
+Table 2,Statewide total,Total Registered 2026 (Nov 1),"2,455,735","2,455,735",vr_2026-11-01_county.pdf,MATCH
+Board grand total,Statewide total,DREG22,"687,545","687,545","vr2420 Grand Total line, vr_2022-11-01_county.pdf",MATCH
+Board grand total,Statewide total,DREG26,"627,581","627,581","vr2420 Grand Total line, vr_2026-11-01_county.pdf",MATCH
+Board grand total,Statewide total,TREG22,"2,295,906","2,295,906","vr2420 Grand Total line, vr_2022-11-01_county.pdf",MATCH
+Board grand total,Statewide total,TREG26,"2,455,735","2,455,735","vr2420 Grand Total line, vr_2026-11-01_county.pdf",MATCH
+Board grand total,Statewide total,D22,"481,904","481,904",sw_results_20221108.json,MATCH
+Board grand total,Statewide total,D26,"514,776","514,776",sw_results_20261103.json,MATCH
+Board grand total,Statewide total,T22,"1,153,284","1,153,284",sw_results_20221108.json,MATCH
+Board grand total,Statewide total,T26,"1,120,930","1,120,930",sw_results_20261103.json,MATCH
+Text,—,legend: Dem registration rose,"Democratic registration rose (Oklahoma, Canadian)","Democratic registration rose (Oklahoma, Canadian)",vr_2022/2026 PDFs,MATCH
+Text,—,legend: Dem gov votes fell count,Democratic governor votes fell (43 counties),Democratic governor votes fell (43 counties),20221108_CLCSV.zip:20221108_CountyResults.csv; 20261103_CLCSV.zip:20261103_CountyResults.csv,MATCH
+Text,—,sort note: share leader,Oklahoma leads by share,Oklahoma leads by share,vr_2026-11-01_county.pdf,MATCH
+Text,—,sort note: raw Dem reg leader,Oklahoma County leads by raw Democratic registration,Oklahoma County leads by raw Democratic registration,vr_2026-11-01_county.pdf,MATCH
+Text,Statewide,footnote: statewide ballots 2022 (turnout % × Nov 1 registration),"1,155,911 (2022)","1,155,911 (2022)",sw_results_20221108.json; vr PDF Grand Total,MATCH
+Text,Statewide,footnote: statewide ballots 2026 (turnout % × Nov 1 registration),"1,126,394* (2026)","1,126,394* (2026)",sw_results_20261103.json; vr PDF Grand Total,MATCH
+Text,Statewide,"2022 ballots = Board published 1,155,911","1,155,911","1,155,911",Board published 2022 total ballots cast,MATCH

@@ -1,0 +1,40 @@
+{
+ "county_rows_part1": 77,
+ "county_rows_part2": 77,
+ "statewide_rows": [
+  1,
+  1
+ ],
+ "figures_compared": 1560,
+ "mismatches": [],
+ "sort_order_matches_passB": true,
+ "county_sums_equal_statewide_row": true,
+ "statewide_row_equals_board_totals": true,
+ "pages": 6,
+ "unofficial_footer_on_every_page": true,
+ "ballots_caveat_present": true,
+ "statewide_row_part1": [
+  "25.6%",
+  "687,545",
+  "627,581",
+  "-59,964",
+  "-8.7%",
+  "481,904",
+  "514,776",
+  "+32,872",
+  "+6.8%",
+  "1,153,284",
+  "1,120,930",
+  "-32,354",
+  "-2.8%"
+ ],
+ "statewide_row_part2": [
+  "41.8%",
+  "45.9%",
+  "+4.14",
+  "29.9%",
+  "2,295,906",
+  "25.6%",
+  "2,455,735"
+ ]
+}
