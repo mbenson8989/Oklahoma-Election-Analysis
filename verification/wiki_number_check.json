@@ -1,0 +1,81 @@
+{
+ "headline_checks": {
+  "S22": {
+   "expected": "41.79%",
+   "found_on_Home": true
+  },
+  "S26": {
+   "expected": "45.92%",
+   "found_on_Home": true
+  },
+  "R22": {
+   "expected": "29.95%",
+   "found_on_Home": true
+  },
+  "R26": {
+   "expected": "25.56%",
+   "found_on_Home": true
+  },
+  "G22": {
+   "expected": "+11.84",
+   "found_on_Home": true
+  },
+  "G26": {
+   "expected": "+20.37",
+   "found_on_Home": true
+  },
+  "dG": {
+   "expected": "\u0394G +8.53",
+   "found_on_Home": true
+  },
+  "resid": {
+   "expected": "+4.14 pts",
+   "found_on_Home": true
+  },
+  "k": {
+   "expected": "1.3953",
+   "found_on_Home": true
+  },
+  "k26": {
+   "expected": "1.7970",
+   "found_on_Home": true
+  },
+  "fwd_exp": {
+   "expected": "399,709",
+   "found_on_Home": true
+  },
+  "fwd_sur": {
+   "expected": "+115,067",
+   "found_on_Home": true
+  },
+  "Rimp": {
+   "expected": "32.91%",
+   "found_on_Home": true
+  },
+  "offset": {
+   "expected": "+46,391",
+   "found_on_Home": true
+  }
+ },
+ "all_found": true,
+ "passB_resid_top5": [
+  "TEXAS",
+  "CANADIAN",
+  "ROGER MILLS",
+  "OKLAHOMA",
+  "KINGFISHER"
+ ],
+ "passB_resid_bottom5": [
+  "COAL",
+  "ADAIR",
+  "PUSHMATAHA",
+  "MCCURTAIN",
+  "JOHNSTON"
+ ],
+ "county_csv_vs_passB": {
+  "fields": 3080,
+  "mismatches": 0
+ },
+ "cedar_link_on_home": true,
+ "unofficial_banner_on_all_pages": true
+}

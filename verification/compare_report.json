@@ -1,0 +1,39 @@
+{
+ "counties": 77,
+ "fields_per_county": 40,
+ "figures_compared": 3080,
+ "county_mismatches": 0,
+ "statewide_mismatches": [],
+ "vs_official_statewide": {
+  "22": {
+   "sw_race_total": 1153284,
+   "county_sum_T": 1153284,
+   "match": true,
+   "vr_grand_dem": 687545,
+   "county_sum_DREG": 687545,
+   "vr_grand_total": 2295906,
+   "county_sum_TREG": 2295906,
+   "vr_match": true
+  },
+  "24": {
+   "sw_race_total": 1566173,
+   "county_sum_T": 1566173,
+   "match": true,
+   "vr_grand_dem": 659061,
+   "county_sum_DREG": 659061,
+   "vr_grand_total": 2442211,
+   "county_sum_TREG": 2442211,
+   "vr_match": true
+  },
+  "26": {
+   "sw_race_total": 1120930,
+   "county_sum_T": 1120930,
+   "match": true,
+   "vr_grand_dem": 627581,
+   "county_sum_DREG": 627581,
+   "vr_grand_total": 2455735,
+   "county_sum_TREG": 2455735,
+   "vr_match": true
+  }
+ }
+}
